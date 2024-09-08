@@ -77,8 +77,8 @@ body {
     width: 100%;
     flex-grow: 1;
     font-weight: 100;
-    font-size: 8px;
-    margin:0;
+    font-size: 10px;
+    margin-bottom:2px;
 }
 
 .trend-content {

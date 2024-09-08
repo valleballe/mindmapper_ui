@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Generate trends
                 const trendsContainer = document.getElementById('trends');
                 //trendsContainer.innerHTML = ''; // Clear previous content
-                var item_index = 0;
+                var item_index = 1;
                 for (const key in personData.trends) {
                     if (personData.trends.hasOwnProperty(key)) {
                         const trend = personData.trends[key];
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         // Create subtitle element
                         const subtitleElement = document.createElement('div');
                         subtitleElement.className = 'trend-subtitle';
-                        subtitleElement.textContent = 'Trend '+item_index+1;
+                        subtitleElement.textContent = 'Pattern '+item_index;
 
                         // Create content element
                         const contentElement = document.createElement('div');
