@@ -1,0 +1,50 @@
+{
+    "1":
+    {
+        "name": "Kamala Harris",
+        "profile_pic": "https://pbs.twimg.com/profile_images/1592241313700782081/T2pTYU8d.jpg",
+        "description":"2024 President Elect of the Democratic Party",
+        "trends": {
+            "1": {
+                "title":"Emotionally charged language",
+                "content": "The individual consistently utilizes emotionally charged language that conveys a sense of urgency, dichotomy, and existential threat to rally support for their political stance. This language often frames political issues as a battle between two fundamentally opposing visions for the country, focusing on preserving democracy and safeguarding freedom against perceived threats.",
+                "evidence": [
+                    "My Administration will make it easier for small businesses to succeed.",
+                    "My Administration will make it easier for small businesses to succeed.",
+                    "My Administration will make it easier for small businesses to succeed."
+                    ]
+            },
+            "2": {
+                "title":"Emotionally charged language",
+                "content": "Uses ... language ...",
+                "evidence": ["text1", "text2", "text3"]
+            },
+            "3": {
+                "title":"Emotionally charged language",
+                "content": "Is ...",
+                "evidence": ["text1", "text2", "text3"]
+            }
+        }
+    },
+    "2":
+    {
+        "name": "Donald Trump",
+        "profile_pic": "https://pbs.twimg.com/profile_images/1592241313700782081/T2pTYU8d_normal.jpg",
+        "trends": {
+            "1": {
+                "title":"Emotionally charged language",
+                "content": "The individual consistently utilizes emotionally charged language that conveys a sense of urgency, dichotomy, and existential threat to rally support for their political stance. This language often frames political issues as a battle between two fundamentally opposing visions for the country, focusing on preserving democracy and safeguarding freedom against perceived threats.",
+                "evidence": ["text1", "text2", "text3"]
+            },
+            "2": {
+                "title":"Emotionally charged language",
+                "content": "Uses ... language ...",
+                "evidence": ["text1", "text2", "text3"]
+            },
+            "3": {
+                "content": "Is ...",
+                "evidence": ["text1", "text2", "text3"]
+            }
+        }
+    }
+}
