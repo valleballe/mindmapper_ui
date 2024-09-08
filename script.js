@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (personData) {
                 // Set profile picture and name
                 document.getElementById('profile_pic').src = personData.profile_pic;
-                document.getElementById('profile_name').textContent = personData.name;
+                document.getElementById('profile_name').textContent = "Behavioral Patterns of "+personData.name;
                 document.getElementById('profile_description').textContent = personData.description;
 
                 // Generate trends
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         // Create subtitle element
                         const subtitleElement = document.createElement('div');
                         subtitleElement.className = 'trend-subtitle';
-                        subtitleElement.textContent = 'Trend '+item_index;
+                        subtitleElement.textContent = 'Trend '+item_index+1;
 
                         // Create content element
                         const contentElement = document.createElement('div');
