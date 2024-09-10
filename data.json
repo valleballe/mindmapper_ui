@@ -6,44 +6,1111 @@
         "description":"2024 President Elect of the Democratic Party",
         "trends": {
             "1": {
-                "title":"Emotionally charged language",
-                "content": "The individual consistently utilizes emotionally charged language that conveys a sense of urgency, dichotomy, and existential threat to rally support for their political stance. This language often frames political issues as a battle between two fundamentally opposing visions for the country, focusing on preserving democracy and safeguarding freedom against perceived threats.",
+                "title": "",
+                "content": "The user consistently employs emotionally charged language to critique and cast Donald Trump in a negative light, emphasizing alleged threats to democracy and individual freedoms.",
                 "evidence": [
-                    "My Administration will make it easier for small businesses to succeed.",
-                    "My Administration will make it easier for small businesses to succeed.",
-                    "My Administration will make it easier for small businesses to succeed."
-                    ]
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "Donald Trump is threatening access to contraception.",
+                    "Trump bows down to dictators. He makes America weak. \n\nThat is disqualifying for someone who wants to be Commander-in-Chief.",
+                    "While Trump relentlessly attacks reproductive freedoms, @JoeBiden and I will never stop fighting to protect them. \n\nAmericans have repeatedly made it clear they want more freedom, not less, and they will make their voices heard at the ballot box again this November.",
+                    "Donald Trump has vowed that he will be a dictator on \u201cday one.\u201d \n\nHe is a threat to our democracy and our fundamental freedoms.\n",
+                    "The contrast is clear: Donald Trump lied over and over and over again during the debate. \n\nHe would not disavow what happened on January 6.\n\nHe would not give a clear answer on whether he would stand by the election results. \n",
+                    "Let\u2019s make one thing clear, Donald Trump intended to get rid of Roe and rip away fundamental freedoms from Americans.\n\nAnd he will not stop there. ",
+                    "900 pages that would hand Donald Trump unprecedented power to:\n\nBan abortion nationwide.\nRip away affordable health care.\nCancel student loan relief.\nAnd much more.\n\nWe will defeat his dangerous Project 2025 agenda at the ballot box in November. ",
+                    "He said we should \u201cpunish\u201d women who have an abortion.\nHe said he is \u201cproud\u201d of his role in ending Roe.\nHe unleashed extreme abortion bans across the country. \n\nDonald Trump\u2019s record and position on reproductive freedom are clear.",
+                    "Senate Republicans blocked a bill that protects the right to contraception.\n\nWe deserve better. ",
+                    "Donald Trump has told us who he is. A second Trump term would mean more bans, more suffering, and less freedom. ",
+                    "Donald Trump is a threat to our democracy and fundamental freedoms. \n\nPresident @JoeBiden and I will continue fighting to restore Roe, protect our democracy, and address our gun violence epidemic. \n\nThe contrast could not be clearer.",
+                    "When you read Donald Trump\u2019s 2025 agenda, you will see he intends to cut Social Security and Medicare, give tax breaks to billionaires, end the Affordable Care Act, and more. \n\nWe are not going back.\n\n",
+                    "This afternoon, Donald Trump spoke to the National Association of Black Journalists.\n\nIt was the same old show.\n\nLet me just say: The American people deserve better than Donald Trump\u2019s divisiveness and disrespect.",
+                    "Donald Trump and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban.\n\nSimply put, they are out of their minds. ",
+                    "It\u2019s simple: Donald Trump is a threat to our democracy and fundamental freedoms.\n\nWith your vote, we will stop him this November. ",
+                    "This campaign is not just about us versus Donald Trump.  \n\nOur campaign is about fighting for the future. ",
+                    "Trump\u2019s Project 2025:\n\n\u2013Bans abortion nationwide\n\u2013Cuts Social Security \n\u2013Eliminates the Department of Education\n\u2013Repeals our $35 cap on insulin for seniors\n\u2013Limits access to contraception\n",
+                    "Donald Trump continues to brag about overturning Roe v. Wade.\n\nHe calls cruel abortion bans \u201ca beautiful thing to watch.\u201d \n\nHow dare he.",
+                    "Donald Trump wants to turn our democracy into a dictatorship."
+                ]
             },
             "2": {
-                "title":"Emotionally charged language",
-                "content": "Uses ... language ...",
-                "evidence": ["text1", "text2", "text3"]
+                "title": "",
+                "content": "The user consistently highlights potential negative consequences of Donald Trump's possible actions and policies, focusing on areas such as restrictions on personal freedoms, health and contraception access, electoral integrity, and economic strategies. This pattern is indicative of the user's attention to selectively releasing information that portrays Trump in a negative light in order to mobilize political sentiment against him.",
+                "evidence": [
+                    "Trump\u2019s Project 2025:\n\n\u2013Bans abortion nationwide\n\u2013Cuts Social Security \n\u2013Eliminates the Department of Education\n\u2013Repeals our $35 cap on insulin for seniors\n\u2013Limits access to contraception\n",
+                    "The states with the highest rates of maternal mortality all have abortion bans. And so-called leaders suggest these bans are in the best interest of women and children.\n\nThe hypocrisy abounds. ",
+                    "Donald Trump and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban.\n\nSimply put, they are out of their minds. ",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "Trump\u2019s Project 2025 is a plan to return America to a dark past:\n\n\u2013Failed trickle-down economic policies\n\u2013Union busting\n\u2013Tax breaks for billionaires\n\u2013Blocking student loan forgiveness\n\nCan you believe they put that in writing?",
+                    "The contrast is clear: Donald Trump lied over and over and over again during the debate. \n\nHe would not disavow what happened on January 6.\n\nHe would not give a clear answer on whether he would stand by the election results. \n",
+                    "900 pages that would hand Donald Trump unprecedented power to:\n\nBan abortion nationwide.\nRip away affordable health care.\nCancel student loan relief.\nAnd much more.\n\nWe will defeat his dangerous Project 2025 agenda at the ballot box in November. ",
+                    "He said we should \u201cpunish\u201d women who have an abortion.\nHe said he is \u201cproud\u201d of his role in ending Roe.\nHe unleashed extreme abortion bans across the country. \n\nDonald Trump\u2019s record and position on reproductive freedom are clear.",
+                    "Donald Trump is threatening access to contraception.",
+                    "I have often challenged Trump and so-called leaders who say that an abortion ban is in the best interest of women and children, yet stay silent on maternal mortality. \n\nThe hypocrisy abounds.",
+                    "Donald Trump has told us who he is. A second Trump term would mean more bans, more suffering, and less freedom. ",
+                    "Donald Trump hand-picked three members of the Supreme Court who would overturn the protections of Roe v. Wade.\n\nAs he intended, they did\u2014and now he wants to pass a nationwide abortion ban. \n\nI will not let that happen.",
+                    "While Trump relentlessly attacks reproductive freedoms, @JoeBiden and I will never stop fighting to protect them. \n\nAmericans have repeatedly made it clear they want more freedom, not less, and they will make their voices heard at the ballot box again this November.",
+                    "Donald Trump hand-picked three members of the Supreme Court with the intention that they would undo the protections of Roe v. Wade.\n\nThey did as he intended.\n\nTrump is the architect of this health care crisis."
+                ]
+            },
+            "11": {
+                "title": "",
+                "content": "Repetitive Emphasis on Opposition Against Trump and Advocacy for Rights",
+                "evidence": [
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won fundamental freedoms and rights. We will not stand for it. \n\nJoin us in the fight for freedom:\n",
+                    "Donald Trump has vowed that he will be a dictator on \u201cday one.\u201d \n\nHe is a threat to our democracy and our fundamental freedoms.\n",
+                    "Donald Trump has vowed that he will be a dictator on \u201cday one.\u201d \n\nDictators take people\u2019s freedoms away\u2014the freedom to vote, the freedom to love who you love openly,  and the freedom to live safe from the horror of gun violence.",
+                    "Donald Trump and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban.\n\nSimply put, they are out of their minds. ",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won freedoms and rights. \n\nBut we have the power\u2014and the responsibility\u2014to fight back. \n\nWhen we fight, we win. Join us: ",
+                    "Across our nation, we are witnessing a full assault on hard-fought, hard-won freedoms.\n\nOur fight is for the future and for freedom.\n\nWe are not going back. ",
+                    "He said we should \u201cpunish\u201d women who have an abortion.\nHe said he is \u201cproud\u201d of his role in ending Roe.\nHe unleashed extreme abortion bans across the country. \n\nDonald Trump\u2019s record and position on reproductive freedom are clear.",
+                    "Donald Trump is threatening access to contraception.",
+                    "Donald Trump openly praises dictators and has vowed to be a dictator on day one.\n\nAs the great Maya Angelou said: When someone tells you who they are, believe them.\n",
+                    "This campaign is not just about us versus Donald Trump.  \n\nOur campaign is about fighting for the future. ",
+                    "Donald Trump wants to turn our democracy into a dictatorship.",
+                    "Trump bows down to dictators. He makes America weak. \n\nThat is disqualifying for someone who wants to be Commander-in-Chief."
+                ]
+            },
+            "20": {
+                "title": "",
+                "content": "The user consistently employs emotionally charged language to rally support and influence public opinion on reproductive rights issues, focusing on themes of freedom and choice.",
+                "evidence": [
+                    "Donald Trump has vowed that he will be a dictator on \u201cday one.\u201d \n\nHe is a threat to our democracy and our fundamental freedoms.\n",
+                    "Americans have voted to protect their reproductive freedom whenever it has been on the ballot since Roe was overturned.\n\nWe\u2019ll do it again in 2024. ",
+                    "Our people-powered campaign is a fight for the future.\n\nA fight for reproductive freedom where women make decisions about their bodies\u2014not the government.\n\nLet us continue this fight with optimism, faith and hope. When we fight, we win.\n\nJoin now: ",
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "Whenever reproductive rights\u2014in red states or blue states\u2014have been on the ballot post-Dobbs, the American people voted for freedom. ",
+                    "He said we should \u201cpunish\u201d women who have an abortion.\nHe said he is \u201cproud\u201d of his role in ending Roe.\nHe unleashed extreme abortion bans across the country. \n\nDonald Trump\u2019s record and position on reproductive freedom are clear.",
+                    "This campaign is not just about us versus Donald Trump.  \n\nOur campaign is about fighting for the future. ",
+                    "Since Roe was overturned, reproductive freedom has won in every election where it was on the ballot.\n\nFrom Kansas to Ohio, the people of America have overwhelmingly voted in favor of freedom.\n\nMomentum is on our side. ",
+                    "While Trump relentlessly attacks reproductive freedoms, @JoeBiden and I will never stop fighting to protect them. \n\nAmericans have repeatedly made it clear they want more freedom, not less, and they will make their voices heard at the ballot box again this November."
+                ]
             },
             "3": {
-                "title":"Emotionally charged language",
-                "content": "Is ...",
-                "evidence": ["text1", "text2", "text3"]
+                "title": "",
+                "content": "Fear-based messaging is consistently used by the user to emphasize threats to democracy and fundamental freedoms under Trump's leadership.",
+                "evidence": [
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won fundamental freedoms and rights. We will not stand for it. \n\nJoin us in the fight for freedom:\n",
+                    "Donald Trump has vowed that he will be a dictator on \u201cday one.\u201d \n\nHe is a threat to our democracy and our fundamental freedoms.\n",
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won freedoms and rights. \n\nBut we have the power\u2014and the responsibility\u2014to fight back. \n\nWhen we fight, we win. Join us: ",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "It\u2019s simple: Donald Trump is a threat to our democracy and fundamental freedoms.\n\nWith your vote, we will stop him this November. ",
+                    "Donald Trump is a threat to our democracy and fundamental freedoms. \n\nPresident @JoeBiden and I will continue fighting to restore Roe, protect our democracy, and address our gun violence epidemic. \n\nThe contrast could not be clearer.",
+                    "Donald Trump wants to turn our democracy into a dictatorship.",
+                    "Across our nation, we are witnessing a full assault on hard-fought, hard-won freedoms.\n\nOur fight is for the future and for freedom.\n\nWe are not going back. "
+                ]
+            },
+            "6": {
+                "title": "",
+                "content": "The user frequently uses rallying and battle-oriented language to inspire collective action and unconditional support for a campaign, emphasizing unity and shared responsibility to achieve positive outcomes.",
+                "evidence": [
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won freedoms and rights. \n\nBut we have the power\u2014and the responsibility\u2014to fight back. \n\nWhen we fight, we win. Join us: ",
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "In this election, we each face a question: What kind of country do we want to live in? \n\nWe each have the power to answer that question and in the next 103 days, we have work to do. \n\nDonate:  ",
+                    "Dreamers are our neighbors, classmates, and loved ones\u2014their ambition and aspiration power our economy and our entire country. \n\nThat\u2019s why President Biden and I took action to keep families together. ",
+                    "I am determined to fight for the people. Because when we fight, we win.\n\nWatch our campaign\u2019s new ad: ",
+                    "When we organize, mountains move. \nWhen we mobilize, nations change. \nWhen we vote, we make history.\n\nLet\u2019s get to work: ",
+                    "The power is with the people.",
+                    "Ours is a people-powered campaign.\n\nHelp us build it:  "
+                ]
+            },
+            "13": {
+                "title": "",
+                "content": "The user consistently employs broad, motivational language focusing on the theme of 'fighting for freedom' and 'unity' without detailing specific actionable steps, aiming to appeal broadly and galvanize support.",
+                "evidence": [
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won fundamental freedoms and rights. We will not stand for it. \n\nJoin us in the fight for freedom:\n",
+                    "We believe in freedom, opportunity, and the promise of America.\n\nWe\u2019re ready to fight for it. \n\nGet involved today:  ",
+                    "Generations of Americans before us led the fight for freedom. \n\nNow the baton is in our hands\u2014each and every one of us. \n\nJoin our fight: ",
+                    "Our democracy is only as strong as our willingness to fight for it\u2014and we stand prepared to do just that.",
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won freedoms and rights. \n\nBut we have the power\u2014and the responsibility\u2014to fight back. \n\nWhen we fight, we win. Join us: ",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "If you claim to stand for unity, you need to do more than just use the word.\n\nYou cannot claim you stand for unity if you are pushing an agenda that deprives whole groups of Americans of basic freedoms, opportunity, and dignity. ",
+                    "Across our nation, we are witnessing a full assault on hard-fought, hard-won freedoms.\n\nOur fight is for the future and for freedom.\n\nWe are not going back. "
+                ]
+            },
+            "19": {
+                "title": "",
+                "content": "The user consistently emphasizes the values of unity and democracy, often highlighting the need to oppose divisive and oppressive agendas to uphold these ideals.",
+                "evidence": [
+                    "Our democracy is on the ballot. \n\nIt is only as strong as our willingness to fight for it. Let us vote to protect our democracy in November. ",
+                    "Donald Trump has vowed that he will be a dictator on \u201cday one.\u201d \n\nHe is a threat to our democracy and our fundamental freedoms.\n",
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "If you claim to stand for unity, you need to do more than just use the word.\n\nYou cannot claim you stand for unity if you are pushing an agenda that deprives whole groups of Americans of basic freedoms, opportunity, and dignity. ",
+                    "Democracy is on the ballot in November.",
+                    "Our democracy is only as strong as our willingness to fight for it.\n\nJoin us:  ",
+                    "This campaign is not just about us versus Donald Trump.  \n\nOur campaign is about fighting for the future. "
+                ]
+            },
+            "18": {
+                "title": "",
+                "content": "The user consistently frames political issues as a battle for fundamental freedoms and rights, emphasizing the need to fight back against perceived threats to these freedoms.",
+                "evidence": [
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won fundamental freedoms and rights. We will not stand for it. \n\nJoin us in the fight for freedom:\n",
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won freedoms and rights. \n\nBut we have the power\u2014and the responsibility\u2014to fight back. \n\nWhen we fight, we win. Join us: ",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "This election is fundamentally about protecting our hard-fought and hard-won freedoms.\n\nThe choice is clear. ",
+                    "Across our nation, we are witnessing a full assault on hard-fought, hard-won freedoms.\n\nOur fight is for the future and for freedom.\n\nWe are not going back. ",
+                    "Across the nation, we are witnessing a full-on attack on hard-won, hard-fought freedoms. \n\nExtremists attack the freedom to vote, our freedom to live safe from gun violence, and our reproductive freedom.\n\nI say, bring it on\u2014because we\u2019re not going back. "
+                ]
+            },
+            "5": {
+                "title": "",
+                "content": "The individual uses broad and emotionally charged language that appeals to patriotism and unity without detailing explicit policies or actionable plans.",
+                "evidence": [
+                    "If you claim to stand for unity, you need to do more than just use the word.\n\nYou cannot claim you stand for unity if you are pushing an agenda that deprives whole groups of Americans of basic freedoms, opportunity, and dignity. ",
+                    "One thing that unites us as Americans is our love for our country. The highest form of patriotism is to fight for the ideals of our country. \n\nThat is how we preserve the promise of America. ",
+                    "We believe in freedom, opportunity, and the promise of America.\n\nWe\u2019re ready to fight for it. \n\nGet involved today:  ",
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "True patriotism means fighting to make our nation better for each generation.\n\nTune in now for day two of the Democratic National Convention.  "
+                ]
+            },
+            "8": {
+                "title": "",
+                "content": "The user frequently frames political discourse as a dichotomy between progression towards a future-oriented vision and regression to past ideologies, often reiterating the idea that their political platform represents future-focused values, while contrasting it with a rival platform that is anchored in the past.",
+                "evidence": [
+                    "This campaign is about two different visions for our nation.\n\nOurs is focused on the future. Donald Trump\u2019s is focused on the past.\n\nWe\u2019re not going back.",
+                    "In this election, we face a choice between two visions for our nation: One focused on the future and the other on the past. \n\nWe are fighting for the future\u2014and when we fight, we win. \n\nJoin the fight: ",
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "Our campaign is not just about us versus Donald Trump. It is about two different visions for our nation: One focused on the future, the other on the past. \n\nWe fight for the future.",
+                    "The American people are ready for a new way forward.\n\nOur former president has pushed an agenda that diminishes the character and strength of who we are as Americans, and divides our nation.\n\nPeople are ready to turn the page.\n"
+                ]
+            },
+            "9": {
+                "title": "",
+                "content": "The user consistently highlights negative aspects of Donald Trump's \"Project 2025\" with a specific focus on abortion, contraception, and social security.",
+                "evidence": [
+                    "Donald Trump is threatening access to contraception.",
+                    "Trump\u2019s Project 2025:\n\n\u2013Bans abortion nationwide\n\u2013Cuts Social Security \n\u2013Eliminates the Department of Education\n\u2013Repeals our $35 cap on insulin for seniors\n\u2013Limits access to contraception\n",
+                    "Donald Trump and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban.\n\nSimply put, they are out of their minds. ",
+                    "Trump advisors created Project 2025\u2014a plan that would put our children, our families, and our future at risk.\n\nIf implemented, it would ban abortion nationwide, limit access to contraception, cut Social Security, and repeal our $35 cap on insulin.",
+                    "900 pages that would hand Donald Trump unprecedented power to:\n\nBan abortion nationwide.\nRip away affordable health care.\nCancel student loan relief.\nAnd much more.\n\nWe will defeat his dangerous Project 2025 agenda at the ballot box in November. "
+                ]
+            },
+            "10": {
+                "title": "",
+                "content": "The user employs broad and abstract themes of freedom and democracy to appeal to a broader audience without delving into specific policy actions or positions.",
+                "evidence": [
+                    "Democracy is on the ballot in November.",
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "In this election, we each face a question: What kind of country do we want to live in?\n\nA country of chaos, fear, and hate? Or one of freedom, compassion, and rule of law?\n\nEach of us has the power to answer that question with our vote.",
+                    "Across our nation, we are witnessing a full assault on hard-fought, hard-won freedoms.\n\nOur fight is for the future and for freedom.\n\nWe are not going back. ",
+                    "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won fundamental freedoms and rights. We will not stand for it. \n\nJoin us in the fight for freedom:\n"
+                ]
+            },
+            "12": {
+                "title": "",
+                "content": "The Vice President consistently employs strategic messaging to portray Joe Biden as a dedicated leader with broad support, emphasizing endorsements and contrasts with opposition.",
+                "evidence": [
+                    "As Vice President, I see @JoeBiden when the cameras are on and when the cameras are off\u2014in the Oval Office, in the Situation Room, and on the campaign trail.\n\nJoe Biden is a leader who fights for the American people. ",
+                    "As Vice President, I see @JoeBiden when the cameras are on and when the cameras are off. Joe Biden is a leader who always fights for the people of our nation. \n",
+                    "President @JoeBiden has our backs.",
+                    "On the debate stage on Thursday, the contrast will be made clear: Joe Biden fights for the American people while Donald Trump spends his time fighting for himself. ",
+                    "It means so much to have your endorsements, @MichelleObama and @BarackObama.\n\nLet\u2019s get to work. "
+                ]
+            },
+            "14": {
+                "title": "",
+                "content": "The user frequently employs emotionally charged language to highlight perceived threats to reproductive freedoms, framing Donald Trump and his allies as antagonists in this narrative.",
+                "evidence": [
+                    "While Trump relentlessly attacks reproductive freedoms, @JoeBiden and I will never stop fighting to protect them. \n\nAmericans have repeatedly made it clear they want more freedom, not less, and they will make their voices heard at the ballot box again this November.",
+                    "Donald Trump is threatening access to contraception.",
+                    "He said we should \u201cpunish\u201d women who have an abortion.\nHe said he is \u201cproud\u201d of his role in ending Roe.\nHe unleashed extreme abortion bans across the country. \n\nDonald Trump\u2019s record and position on reproductive freedom are clear.",
+                    "Donald Trump and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban.\n\nSimply put, they are out of their minds. ",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. "
+                ]
+            },
+            "15": {
+                "title": "",
+                "content": "There is a consistent pattern in emphasizing a dichotomy between Joe Biden and Donald Trump, wherein Biden is portrayed as a leader and Trump is accused of lying. This narrative presents Biden as a forward-thinking, caring leader while Trump is depicted as self-centered and dishonest.",
+                "evidence": [
+                    "This election is between Donald Trump, who lies, and Joe Biden, who leads.\n\nWatch our new ad. ",
+                    "The contrast is clear: Donald Trump lied over and over and over again during the debate. \n\nHe would not disavow what happened on January 6.\n\nHe would not give a clear answer on whether he would stand by the election results. \n",
+                    "Last night, @JoeBiden made clear this election is a contrast between someone who lies and someone who leads.\n",
+                    "On the debate stage on Thursday, the contrast will be made clear: Joe Biden fights for the American people while Donald Trump spends his time fighting for himself. ",
+                    "Our campaign is not just about us versus Donald Trump. It is about two different visions for our nation: One focused on the future, the other on the past. \n\nWe fight for the future."
+                ]
+            },
+            "17": {
+                "title": "",
+                "content": "The user consistently emphasizes and promotes a people-powered approach to their campaign, leveraging grassroots movements to project a narrative of widespread community support.",
+                "evidence": [
+                    "Ours is a people-powered campaign.\n\nHelp us build it:  ",
+                    "Our people-powered campaign has been on the ground across the country for the 100 Days Out Weekend of Action. \n\nJoin us:  ",
+                    "Our team is hosting a campaign update call for grassroots supporters. Tune in now to join us.",
+                    "The power is with the people.",
+                    "We are running a people-powered campaign.\n\nAnd we just had some breaking news: we had the best 24 hours of grassroots fundraising in presidential campaign history.\n\nAnd because we are a people-powered campaign, you know I will be a people-first president.\n"
+                ]
+            },
+            "21": {
+                "title": "",
+                "content": "Blaming a political figure for adverse policy changes related to reproductive rights, particularly focusing on Trump\u2019s actions and statements regarding abortion.",
+                "evidence": [
+                    "Donald Trump and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban.\n\nSimply put, they are out of their minds. ",
+                    "Across our nation, we witnessed a full-on assault on reproductive freedom and we know who is to blame\u2014Donald Trump. \n\nBecause of him more than 20 states have a Trump Abortion Ban.",
+                    "I have often challenged Trump and so-called leaders who say that an abortion ban is in the best interest of women and children, yet stay silent on maternal mortality. \n\nThe hypocrisy abounds.",
+                    "Donald Trump continues to brag about overturning Roe v. Wade.\n\nHe calls cruel abortion bans \u201ca beautiful thing to watch.\u201d \n\nHow dare he.",
+                    "He said we should \u201cpunish\u201d women who have an abortion.\nHe said he is \u201cproud\u201d of his role in ending Roe.\nHe unleashed extreme abortion bans across the country. \n\nDonald Trump\u2019s record and position on reproductive freedom are clear."
+                ]
+            },
+            "23": {
+                "title": "",
+                "content": "The pattern of emphasizing reproductive rights suggests the user is highlighting these issues to mobilize and inspire specific voting bases around election times. Their consistent focus on electoral outcomes and democratic processes across states indicates an intent to galvanize support during voting periods.",
+                "evidence": [
+                    "Wherever reproductive freedom has appeared was on the ballot\u2014from Kansas to California\u2014voters have cast their ballots in favor of freedom.\n\nWe\u2019ll do it again in November.",
+                    "Whenever reproductive rights\u2014in red states or blue states\u2014have been on the ballot post-Dobbs, the American people voted for freedom. ",
+                    "Since Roe was overturned, reproductive freedom has won in every election where it was on the ballot.\n\nFrom Kansas to Ohio, the people of America have overwhelmingly voted in favor of freedom.\n\nMomentum is on our side. ",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. ",
+                    "Americans have voted to protect their reproductive freedom whenever it has been on the ballot since Roe was overturned.\n\nWe\u2019ll do it again in 2024. "
+                ]
+            },
+            "24": {
+                "title": "",
+                "content": "This user consistently emphasizes inclusivity and unity, particularly in relation to American ideals and the LGBTQI+ community, to connect with diverse demographic groups.",
+                "evidence": [
+                    "One thing that unites us as Americans is our love for our country. The highest form of patriotism is to fight for the ideals of our country. \n\nThat is how we preserve the promise of America. ",
+                    "Our LGBTQI+ children should not fear who they are. \n\nNo one should be made to fight alone. \n\nWe are all in this together and we will fight with pride. ",
+                    "My message to LGBTQI+ Americans: We see you. We hear you. And we celebrate you.\n\nHappy Pride! ",
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "If you claim to stand for unity, you need to do more than just use the word.\n\nYou cannot claim you stand for unity if you are pushing an agenda that deprives whole groups of Americans of basic freedoms, opportunity, and dignity. "
+                ]
+            },
+            "25": {
+                "title": "",
+                "content": "Empowering Community Engagement through Shared Values and Historical Connections",
+                "evidence": [
+                    "A great joy of mine is meeting Black business owners across the nation. While in Michigan, @OctaviaSpencer and I stopped by Black Stone Bookstore &amp; Cultural Center.\n\nEvery thriving small business is the American people\u2019s success\u2014the result of drive, creativity, and innovation. ",
+                    "When we organize, mountains move. \nWhen we mobilize, nations change. \nWhen we vote, we make history.\n\nLet\u2019s get to work: ",
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "Ours is a people-powered campaign.\n\nHelp us build it:  ",
+                    "HBCUs are centers of academic excellence that have empowered communities for generations.\n\nThe impact and accomplishments of these institutions and their graduates are woven into the fabric of our nation.\n\nAnd I am proud to be a part of that legacy. "
+                ]
+            },
+            "26": {
+                "title": "",
+                "content": "The user consistently contrasts Joe Biden's positive leadership traits and accomplishments with Donald Trump's perceived weaknesses and failures.",
+                "evidence": [
+                    "Trump bows down to dictators. He makes America weak. \n\nThat is disqualifying for someone who wants to be Commander-in-Chief.",
+                    "This campaign is about two different visions for our nation.\n\nOurs is focused on the future. Donald Trump\u2019s is focused on the past.\n\nWe\u2019re not going back.",
+                    "On the debate stage on Thursday, the contrast will be made clear: Joe Biden fights for the American people while Donald Trump spends his time fighting for himself. ",
+                    "President @JoeBiden speaks from the heart, shows an unshakable resilience, and when he gets knocked down, he gets back up. \n\nThat is what winning looks like. ",
+                    "Donald Trump has told us who he is. A second Trump term would mean more bans, more suffering, and less freedom. "
+                ]
+            },
+            "27": {
+                "title": "",
+                "content": "This user frequently employs rallying and urgent language to incite action and participation in elections, framing these as a fight for democracy and the nation's future.",
+                "evidence": [
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "Our democracy is only as strong as our willingness to fight for it.\n\nJoin us:  ",
+                    "Democracy is on the ballot in November.",
+                    "In this election, we face a choice between two visions for our nation: One focused on the future and the other on the past. \n\nWe are fighting for the future\u2014and when we fight, we win. \n\nJoin the fight: ",
+                    "This election is a fight for our country, our future, and our fundamental freedoms and rights. \n\nThat's why Governor @Tim_Walz and I are in Wisconsin to fire up voters for November.  "
+                ]
+            },
+            "28": {
+                "title": "",
+                "content": "Use of emotionally charged language to create urgency and inspire action before elections.",
+                "evidence": [
+                    "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
+                    "Ours is a people-powered campaign.\n\nHelp us build it:  ",
+                    "In this election, we each face a question: What kind of country do we want to live in?\n\nA country of chaos, fear, and hate? Or one of freedom, compassion, and rule of law?\n\nEach of us has the power to answer that question with our vote.",
+                    "The power is with the people. \n\nTune in as Governor @Tim_Walz and I speak with Michigan voters about what\u2019s at stake in this election ",
+                    "In November, reproductive freedom and democracy are on the ballot. \n\nDonald Trump would continue to dismantle these freedoms.  \n\nWe need to fight. And we know when we fight, we win. "
+                ]
+            },
+            "4": {
+                "title": "",
+                "content": "The user consistently employs language that accentuates the gravity and high stakes of upcoming elections, emphasizing themes of democracy, change, and civic duty.",
+                "evidence": [
+                    "In November, the contrast is clear, and the stakes are higher than they\u2019ve ever been. ",
+                    "Democracy is on the ballot in November.",
+                    "Our democracy is on the ballot. \n\nIt is only as strong as our willingness to fight for it. Let us vote to protect our democracy in November. ",
+                    "In this election, we each face a question: What kind of country do we want to live in?\n\nA country of chaos, fear, and hate? Or one of freedom, compassion, and rule of law?\n\nEach of us has the power to answer that question with our vote."
+                ]
+            },
+            "16": {
+                "title": "",
+                "content": "The user's use of inclusive language and emphasis on unity suggests a consistent pattern of striving to engage diverse groups with messages of cohesion and shared goals. This cognitive tendency aligns with an ongoing commitment to supporting causes related to freedom, opportunity, and dignity for marginalized communities.",
+                "evidence": [
+                    "Our LGBTQI+ children should not fear who they are. \n\nNo one should be made to fight alone. \n\nWe are all in this together and we will fight with pride. ",
+                    "My message to LGBTQI+ Americans: We see you. We hear you. And we celebrate you.\n\nHappy Pride! ",
+                    "If you claim to stand for unity, you need to do more than just use the word.\n\nYou cannot claim you stand for unity if you are pushing an agenda that deprives whole groups of Americans of basic freedoms, opportunity, and dignity. ",
+                    "We believe in freedom, opportunity, and the promise of America.\n\nWe\u2019re ready to fight for it. \n\nGet involved today:  "
+                ]
+            },
+            "7": {
+                "title": "",
+                "content": "The user's cognitive tendency is to consistently frame their campaign vision in contrast to Donald Trump's policies by highlighting a future-oriented approach against his past-oriented stance.",
+                "evidence": [
+                    "This campaign is about two different visions for our nation.\n\nOurs is focused on the future. Donald Trump\u2019s is focused on the past.\n\nWe\u2019re not going back.",
+                    "Our campaign is not just about us versus Donald Trump. It is about two different visions for our nation: One focused on the future, the other on the past. \n\nWe fight for the future.",
+                    "We know what a second Trump term would look like. It's all laid out in Project 2025, written by his closest advisors. \n\nAnd its sum total is to pull our country back to the past. \n\nBut America: We are not going back. "
+                ]
+            },
+            "22": {
+                "title": "",
+                "content": "Consistent portrayal of Joe Biden as a leader who prioritizes the welfare of the American people over personal gains, reflecting a leadership style aligned with advocacy for the community and diverse groups.",
+                "evidence": [
+                    "On the debate stage on Thursday, the contrast will be made clear: Joe Biden fights for the American people while Donald Trump spends his time fighting for himself. ",
+                    "As Vice President, I see @JoeBiden when the cameras are on and when the cameras are off. Joe Biden is a leader who always fights for the people of our nation. \n",
+                    "As Vice President, I see @JoeBiden when the cameras are on and when the cameras are off\u2014in the Oval Office, in the Situation Room, and on the campaign trail.\n\nJoe Biden is a leader who fights for the American people. "
+                ]
             }
         }
     },
     "2":
     {
         "name": "Donald Trump",
-        "profile_pic": "https://pbs.twimg.com/profile_images/1592241313700782081/T2pTYU8d_normal.jpg",
+        "profile_pic": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m.jpg",
         "trends": {
             "1": {
-                "title":"Emotionally charged language",
-                "content": "The individual consistently utilizes emotionally charged language that conveys a sense of urgency, dichotomy, and existential threat to rally support for their political stance. This language often frames political issues as a battle between two fundamentally opposing visions for the country, focusing on preserving democracy and safeguarding freedom against perceived threats.",
-                "evidence": ["text1", "text2", "text3"]
+                "title": "",
+                "content": "The user consistently engages in rhetoric that questions the legitimacy of democratic processes, suggesting a clear distrust in electoral institutions.",
+                "evidence": [
+                    "GREATEST ELECTION FRAUD IN THE HISTORY OF OUR COUNTRY!!!",
+                    "Tremendous evidence pouring in on voter fraud. There has never been anything like this in our Country!",
+                    "These scoundrels are only toying with the @sendavidperdue (a great guy) vote. Just didn\u2019t want to announce quite yet. They\u2019ve got as many ballots as are necessary. Rigged Election!",
+                    "VOTER FRAUD IS NOT A CONSPIRACY THEORY, IT IS A FACT!!!",
+                    "RT @SidneyPowell1: This \u201celection\u201d was stolen from the voters in a massive fraud that you &amp; others are now complicit in. American elections\u2026",
+                    "\u201cMichigan fraud witness totally debunks Dominion CEO.\u201d @OANN  It was brutal!",
+                    "The U.S. Supreme Court has been totally incompetent and weak on the massive Election Fraud that took place in the 2020 Presidential Election. We have absolute PROOF, but they don\u2019t want to see it - No \u201cstanding\u201d, they say. If we have corrupt elections, we have no country!",
+                    "\u201cWe are not acting to thwart the Democratic process, we are acting to protect it.\u201d @SenRonJohnson",
+                    "\u201cWe\u2019ve seen in the last few months, unprecedented amounts of Voter Fraud.\u201d @SenTedCruz  True!",
+                    "Looks like they are setting up a big \u201cvoter dump\u201d against the Republican candidates. Waiting to see how many votes they need?"
+                ]
             },
             "2": {
-                "title":"Emotionally charged language",
-                "content": "Uses ... language ...",
-                "evidence": ["text1", "text2", "text3"]
+                "title": "",
+                "content": "The user exhibits a consistent pattern of attributing electoral malpractices or unfavorable election outcomes to external interference, specifically blaming other parties or systems such as the state legislature or electoral process.",
+                "evidence": [
+                    "The Vice President has the power to reject fraudulently chosen electors.",
+                    "THE DEMOCRATS DUMPED HUNDREDS OF THOUSANDS OF BALLOTS IN THE SWING STATES LATE IN THE EVENING. IT WAS A RIGGED ELECTION!!!",
+                    "Looks like they are setting up a big \u201cvoter dump\u201d against the Republican candidates. Waiting to see how many votes they need?",
+                    "These scoundrels are only toying with the @sendavidperdue (a great guy) vote. Just didn\u2019t want to announce quite yet. They\u2019ve got as many ballots as are necessary. Rigged Election!"
+                ]
             },
             "3": {
-                "content": "Is ...",
-                "evidence": ["text1", "text2", "text3"]
+                "title": "",
+                "content": "There is a consistent use of emotionally charged language to undermine trust in prominent institutions such as the media, big tech, and the court system.",
+                "evidence": [
+                    "Martial law = Fake News. Just more knowingly bad reporting!",
+                    "Twitter is going wild with their flags, trying hard to suppress even the truth. Just shows how dangerous they are, purposely stifling free speech. Very dangerous for our Country. Does Congress know that this is how Communism starts? Cancel Culture at its worst. End Section 230!",
+                    "....Courts are bad, the FBI and \u201cJustice\u201d didn\u2019t do their job, and the United States Election System looks like that of a third world country. Freedom of the press has been gone for a long time, it is Fake News, and now we have Big Tech (with Section 230) to deal with....",
+                    "Twitter is shadow banning like never before. A disgrace that our weak and ineffective political leadership refuses to do anything about Big Tech. They\u2019re either afraid or stupid, nobody really knows!"
+                ]
+            },
+            "4": {
+                "title": "",
+                "content": "The user exhibits a strong pattern of believing and propagating unverified claims related to election fraud. This behavior appears consistently across multiple tweets, suggesting a cognitive bias towards distrust in electoral processes and authority, likely influenced by social reinforcement and confirmation bias.",
+                "evidence": [
+                    "The Russia Hoax becomes an even bigger lie!",
+                    "Why haven\u2019t they done signature verification in Fulton County, Georgia. Why haven\u2019t they deducted all of the dead people who \u201cvoted\u201d, illegals who voted, non Georgia residents who voted, and tens of thousands of others who voted illegally, from the final vote tally?",
+                    "GREATEST ELECTION FRAUD IN THE HISTORY OF OUR COUNTRY!!!",
+                    "Tremendous evidence pouring in on voter fraud. There has never been anything like this in our Country!",
+                    "Republicans in Georgia must be careful of the political corruption in Fulton County, which is rampant. The Governor, @BrianKempGA, and his puppet Lt. Governor, @GeoffDuncanGA, have done less than nothing. They are a disgrace to the great people of Georgia!",
+                    "The Vice President has the power to reject fraudulently chosen electors.",
+                    "VOTER FRAUD IS NOT A CONSPIRACY THEORY, IT IS A FACT!!!",
+                    "RT @SidneyPowell1: This \u201celection\u201d was stolen from the voters in a massive fraud that you &amp; others are now complicit in. American elections\u2026",
+                    "Twitter is going wild with their flags, trying hard to suppress even the truth. Just shows how dangerous they are, purposely stifling free speech. Very dangerous for our Country. Does Congress know that this is how Communism starts? Cancel Culture at its worst. End Section 230!",
+                    "Twitter is shadow banning like never before. A disgrace that our weak and ineffective political leadership refuses to do anything about Big Tech. They\u2019re either afraid or stupid, nobody really knows!",
+                    "Poll: 92% of Republican Voters think the election was rigged!",
+                    "Big news coming out of Pennsylvania. Very big illegal ballot drop that cannot be accounted for. Rigged Election!",
+                    "Martial law = Fake News. Just more knowingly bad reporting!",
+                    "We won Wisconsin big. They rigged the vote!",
+                    "I spoke to Secretary of State Brad Raffensperger yesterday about Fulton County and voter fraud in Georgia. He was unwilling, or unable, to answer questions such as the \u201cballots under table\u201d scam, ballot destruction, out of state \u201cvoters\u201d, dead voters, and more. He has no clue!",
+                    "\u201cWe\u2019ve seen in the last few months, unprecedented amounts of Voter Fraud.\u201d @SenTedCruz  True!",
+                    "Looks like they are setting up a big \u201cvoter dump\u201d against the Republican candidates. Waiting to see how many votes they need?"
+                ]
+            },
+            "5": {
+                "title": "",
+                "content": "The user's tweets display a consistent pattern of divisive rhetoric, portraying political opponents as threats to democracy and engaging in conspiracy theories about electoral fraud.",
+                "evidence": [
+                    "Twitter is going wild with their flags, trying hard to suppress even the truth. Just shows how dangerous they are, purposely stifling free speech. Very dangerous for our Country. Does Congress know that this is how Communism starts? Cancel Culture at its worst. End Section 230!",
+                    "Time for Republican Senators to step up and fight for the Presidency, like the Democrats would do if they had actually won. The proof is irrefutable! Massive late night mail-in ballot drops in swing states, stuffing the ballot boxes (on video), double voters, dead voters,",
+                    "\u201cWe are not acting to thwart the Democratic process, we are acting to protect it.\u201d @SenRonJohnson",
+                    "Looks like they are setting up a big \u201cvoter dump\u201d against the Republican candidates. Waiting to see how many votes they need?"
+                ]
+            },
+            "6": {
+                "title": "",
+                "content": "A pattern of discrediting mainstream media as a method to cast doubt on opposing narratives.",
+                "evidence": [
+                    "Watching @FoxNews is almost as bad as watching Fake News @CNN. New alternatives are developing!",
+                    "Martial law = Fake News. Just more knowingly bad reporting!",
+                    "I have NOTHING to do with the potential prosecution of Hunter Biden, or the Biden family. It is just more Fake News. Actually, I find it very sad to watch!"
+                ]
+            },
+            "7": {
+                "title": "",
+                "content": "The individual employs selective information release, emphasizing allegations of election fraud claims to discredit opponents, particularly targeting democratic processes perceived as unfavorable.",
+                "evidence": [
+                    "GREATEST ELECTION FRAUD IN THE HISTORY OF OUR COUNTRY!!!",
+                    "Looks like they are setting up a big \u201cvoter dump\u201d against the Republican candidates. Waiting to see how many votes they need?",
+                    "Big news coming out of Pennsylvania. Very big illegal ballot drop that cannot be accounted for. Rigged Election!",
+                    "\u201cWe\u2019ve seen in the last few months, unprecedented amounts of Voter Fraud.\u201d @SenTedCruz  True!",
+                    "VOTER FRAUD IS NOT A CONSPIRACY THEORY, IT IS A FACT!!!"
+                ]
+            },
+            "8": {
+                "title": "",
+                "content": "The user consistently employs strong emotive language to claim widespread voter fraud without supporting these claims with verifiable evidence.",
+                "evidence": [
+                    "VOTER FRAUD IS NOT A CONSPIRACY THEORY, IT IS A FACT!!!",
+                    "Tremendous evidence pouring in on voter fraud. There has never been anything like this in our Country!",
+                    "\u201cWe\u2019ve seen in the last few months, unprecedented amounts of Voter Fraud.\u201d @SenTedCruz  True!",
+                    "GREATEST ELECTION FRAUD IN THE HISTORY OF OUR COUNTRY!!!",
+                    "\u201cWe are not acting to thwart the Democratic process, we are acting to protect it.\u201d @SenRonJohnson"
+                ]
+            },
+            "9": {
+                "title": "",
+                "content": "This user frequently uses charged language to assert election fraud as a fact, demonstrating a cognitive tendency to appeal to confirmation bias and reinforce existing beliefs about election integrity issues.",
+                "evidence": [
+                    "GREATEST ELECTION FRAUD IN THE HISTORY OF OUR COUNTRY!!!",
+                    "Tremendous evidence pouring in on voter fraud. There has never been anything like this in our Country!",
+                    "VOTER FRAUD IS NOT A CONSPIRACY THEORY, IT IS A FACT!!!",
+                    "RT @SidneyPowell1: This \u201celection\u201d was stolen from the voters in a massive fraud that you &amp; others are now complicit in. American elections\u2026",
+                    "Poll: 92% of Republican Voters think the election was rigged!",
+                    "\u201cWe\u2019ve seen in the last few months, unprecedented amounts of Voter Fraud.\u201d @SenTedCruz  True!",
+                    "Looks like they are setting up a big \u201cvoter dump\u201d against the Republican candidates. Waiting to see how many votes they need?"
+                ]
+            },
+            "10": {
+                "title": "",
+                "content": "Engages in denial of legitimate election results and promotes distrust in the electoral process.",
+                "evidence": [
+                    "Looks like they are setting up a big \u201cvoter dump\u201d against the Republican candidates. Waiting to see how many votes they need?",
+                    "The Vice President has the power to reject fraudulently chosen electors.",
+                    "RT @SidneyPowell1: This \u201celection\u201d was stolen from the voters in a massive fraud that you &amp; others are now complicit in. American elections\u2026",
+                    "Poll: 92% of Republican Voters think the election was rigged!",
+                    "These scoundrels are only toying with the @sendavidperdue (a great guy) vote. Just didn\u2019t want to announce quite yet. They\u2019ve got as many ballots as are necessary. Rigged Election!"
+                ]
+            },
+            "11": {
+                "title": "",
+                "content": "The user consistently blames others, particularly Republican leadership, for perceived failures and negative outcomes.",
+                "evidence": [
+                    "Republicans should have gotten rid of Section 230 in the Defense Bill, and you wouldn\u2019t have had this problem. Never learn!!! ",
+                    "At a meeting in Florida today, everyone was asking why aren\u2019t the Republicans up in arms &amp; fighting over the fact that the Democrats stole the rigged presidential election? Especially in the Senate, they said, where you helped 8 Senators win their races. How quickly they forget!",
+                    "If a Democrat Presidential Candidate had an Election Rigged &amp; Stolen, with proof of such acts at a level never seen before, the Democrat Senators would consider it an act of war, and fight to the death. Mitch &amp; the Republicans do NOTHING, just want to let it pass. NO FIGHT!",
+                    "The \u201cSurrender Caucus\u201d within the Republican Party will go down in infamy as weak and ineffective \u201cguardians\u201d of our Nation, who were willing to accept the certification of fraudulent presidential numbers!"
+                ]
+            },
+            "12": {
+                "title": "",
+                "content": "The user consistently employs divisive rhetoric to galvanize their followers by framing situations as struggles or battles against perceived opponents, particularly targeting a perceived political or ideological adversary. They often foster an 'us vs. them' mentality by depicting themselves and their followers as defenders of justice against a formidable and corrupt opposition.",
+                "evidence": [
+                    "\u201cWe are not acting to thwart the Democratic process, we are acting to protect it.\u201d @SenRonJohnson",
+                    "Get smart Republicans. FIGHT!",
+                    "Washington is being inundated with people who don\u2019t want to see an election victory stolen by emboldened Radical Left Democrats. Our Country has had enough, they won\u2019t take it anymore! We hear you (and love you) from the Oval Office. MAKE AMERICA GREAT AGAIN!",
+                    "Looks like they are setting up a big \u201cvoter dump\u201d against the Republican candidates. Waiting to see how many votes they need?"
+                ]
+            },
+            "13": {
+                "title": "",
+                "content": "The individual frequently utilizes emotionally charged and derogatory language to discredit opponents, media, and prominent figures, indicating a strong tendency toward combative communication and external attribution of blame.",
+                "evidence": [
+                    "The Wall Street Journal\u2019s very boring &amp; incoherent Editorial fails to mention my big &amp; easy wins in Texas, Florida, Ohio, Iowa &amp; many other states that the @WSJ &amp; other joke polls said I would lose. Also, they fail to mention the fact that I got many Republican Senators elected..",
+                    "Martial law = Fake News. Just more knowingly bad reporting!",
+                    "Watching @FoxNews is almost as bad as watching Fake News @CNN. New alternatives are developing!",
+                    "Twitter is going wild with their flags, trying hard to suppress even the truth. Just shows how dangerous they are, purposely stifling free speech. Very dangerous for our Country. Does Congress know that this is how Communism starts? Cancel Culture at its worst. End Section 230!",
+                    "New Peter Strzok Texts Undermine Official Narrative on Start of \u2018Russia Collusion\u2018 Investigation  via @BreitbartNews. Check out last in his class John McCain, one of the most overrated people in D.C."
+                ]
+            },
+            "14": {
+                "title": "",
+                "content": "The user demonstrates a recurring pattern of attributing negative events and perceived failures to political oppositions, specifically blaming Kamala Harris for various issues, including national security threats and crime.",
+                "evidence": [
+                    "We grieve the senseless death of the Israeli Hostages, horrifically including a wonderful American Citizen, Hersh Goldberg-Polin, murdered by Hamas due to a complete lack of American Strength and Leadership. Make no mistake \u2014 This happened because Comrade Kamala Harris and\u2026 ",
+                    "I look so forward to Debating Comrade Kamala Harris and exposing her for the fraud she is. Harris has changed every one of her long held positions, on everything. America will never allow an Election WEAPONIZING MARXIST TO BE PRESIDENT OF THE U.S.",
+                    "Kamala Harris is the Weakest Presidential Candidate in History on Crime. She\u2019s allowed millions of people to pour through our Borders, many from prisons, mental institutions and, indeed, terrorists, coming in at levels never seen before. What gives her the right to run for\u2026 ",
+                    "I want to thank the families of our Great Warriors who have been lost to us for the way they came together as one, and thanked me for attending, at their request, the Celebration of their wonderful family members who, because of the Incompetence of Kamala Harris and Joe Biden,\u2026  "
+                ]
+            }
+        }
+    },
+    "3":
+    {
+        "name": "Tim Walz",
+        "profile_pic": "https://pbs.twimg.com/profile_images/1825983572496338945/jq4utY7w.jpg",
+        "trends": {
+            "1": {
+                "title": "",
+                "content": "Frequent Use of Emotionally Charged Language to Criticize Opponents",
+                "evidence": [
+                    "Mind your own damn business.",
+                    "The energy and enthusiasm is on our side. You can feel it.",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear.",
+                    "Let\u2019s call it like it is: Scott Jensen spent the pandemic spreading dangerous misinformation about vaccines and treatments. \n\nHis extreme views make him unfit to be governor.",
+                    "JD Vance should mind his own damn business.",
+                    "Monitoring medical records, restricting the travel of pregnant women, criminalizing people for seeking health care\u2026\n\nThis is scary and wrong. \n\nVote to stop them. Vote for freedom. ",
+                    "Donald Trump axed Roe v. Wade \u2014 and his radical attacks on reproductive freedoms won\u2019t stop there if he\u2019s re-elected.\n\nThe choice couldn\u2019t be clearer this November. ",
+                    "This election is about competence versus chaos. It\u2019s about integrity versus an alarming disregard for the principles our democracy was founded on. \n\nThe choice is clear.\u00a0\n\nVisit  make a plan, and cast your ballot for @JoeBiden and @KamalaHarris.",
+                    "While their campaign is based on fear, our campaign is based on joy.\n\nAnd it all starts with @KamalaHarris. ",
+                    "In Minnesota, we\u2019re cutting poverty and strengthening families with our Child Tax Credit.\n\nYou\u2019d think JD Vance would be eager to do the same nationally. Except he skipped a vote to pass the federal Child Tax Credit expansion yesterday.\n\nGive me a break with that pro-family talk.",
+                    "When Trump comes to Minnesota he brings a litany of grievances.\n\nWhen Biden comes to Minnesota he brings money and jobs. \n",
+                    "Our state is stronger because of our LGBTQ+ community. Minnesota has no room for hate or discrimination, and I will never stop fighting to ensure everyone feels welcome here.",
+                    "Thank you, Milwaukee! Not only do we have way more energy at the Democratic National Convention, we have way more energy at the site where Republicans held theirs.\n\nThe momentum is with our campaign, and it all starts with @KamalaHarris. ",
+                    "Our opponents have shown us who they are and what they want to do to our public schools \u2013 and our teachers are taking them at their word.\n \nWe must reject their politics of fear and hate, come together, and make our voices heard this November.\n \nLet\u2019s get to work \ud83d\udcaa ",
+                    "Our opponent\u2019s anti-LGBTQ+ remarks have real-life consequences. Someone who refuses to represent all of our communities is unacceptable and does NOT represent Minnesota.",
+                    "We have to listen to what the candidates are saying and decide the kind world we want to live in. \n\nTheir visions for America couldn\u2019t be more stark.",
+                    "Four years ago, Trump refused to lead during the pandemic. He abandoned our states and made us compete for ventilators. \n\nWhen he asks if we\u2019re better off today than we were four years ago, the answer is yes.\n\n@JoeBiden led the country out of chaos.\n",
+                    "This election is a binary choice. \n\nTrump, who shows up with a tired list of lies and grievances. \n\nOr Biden, who shows up with money and jobs for the middle class. ",
+                    "This election is about:\n\n- Protecting reproductive rights\n- Ensuring our elections continue to be safe and fair\n- Funding our public schools \n\nBut it\u2019s also about kindness and decency.",
+                    "Trump and Vance talk a lot about \u201cfreedom\u201d \u2013 meaning government should be free to invade your bedroom, your children\u2019s school library, and doctor\u2019s office.\n \nThat isn\u2019t freedom.",
+                    "Scott Jensen has demonized our teachers and promised to cut funding from public schools in order to cut taxes for the rich.\n\nHe's not for Minnesota."
+                ]
+            },
+            "6": {
+                "title": "",
+                "content": "The trend identified from the tweets is the consistent portrayal of opponents as divisive and harmful to societal values. The user underscores this by focusing on specific contentious issues, such as LGBTQ+ rights and medical privacy, to establish a clear contrast between their values and those of their opponents. This pattern of communication suggests the user's strategy of emphasizing the perceived flaws and threats posed by these opponents to rally support and affirm their own stance.",
+                "evidence": [
+                    "We must continue to create a state that\u2019s inclusive and welcoming \u2013 and that means protecting, loving, and valuing our LGBTQ+ community across Minnesota.",
+                    "Reproductive rights are on the ballot. The stakes are clear and they could not be higher.",
+                    "We have to listen to what the candidates are saying and decide the kind world we want to live in. \n\nTheir visions for America couldn\u2019t be more stark.",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear.",
+                    "Monitoring medical records, restricting the travel of pregnant women, criminalizing people for seeking health care\u2026\n\nThis is scary and wrong. \n\nVote to stop them. Vote for freedom. ",
+                    "Honesty and decency are what we should expect from our leaders \u2013 not hate and disinformation.",
+                    "Reproductive rights are on the ballot \u2013 and the governor\u2019s office is now the last line of defense against an abortion ban in our state.\n\nThe stakes could not be higher.",
+                    "Donald Trump and JD Vance see those less fortunate as scapegoats and punchlines for their jokes. We see them as our neighbors.",
+                    "This election is about:\n\n- Protecting reproductive rights\n- Ensuring our elections continue to be safe and fair\n- Funding our public schools \n\nBut it\u2019s also about kindness and decency.",
+                    "Our opponent\u2019s anti-LGBTQ+ remarks have real-life consequences. Someone who refuses to represent all of our communities is unacceptable and does NOT represent Minnesota.",
+                    "Here in Minnesota, we believe in the fundamental right to reproductive health care and safe abortions. The governor\u2019s office is the last line of defense to protect this right, and we\u2019re fighting with all we\u2019ve got."
+                ]
+            },
+            "14": {
+                "title": "",
+                "content": "Emphasis on Voting and Civic Engagement",
+                "evidence": [
+                    "Make a voting plan \u2b07\ufe0f\n",
+                    "Had a wonderful time with the Latino community in Worthington today. Celebrating the diversity of our state is how we continue to move forward as One Minnesota, where all are welcome. ",
+                    "Reproductive rights are on the ballot. The stakes are clear and they could not be higher.",
+                    "I talked with Ezra Klein about what reinvesting in rural America looks like, and why guys like Trump and Vance get it all wrong:\n\n ",
+                    "There\u2019s so much on the line this November \u2013 ensure your voice is heard by making a plan to vote:",
+                    "Reproductive rights are on the ballot \u2013 and the governor\u2019s office is now the last line of defense against an abortion ban in our state.\n\nThe stakes could not be higher.",
+                    "Our diversity is what makes us One Minnesota.",
+                    "Volunteer season is in full swing! It\u2019s time for all of us to pitch in and make sure DFLers win up and down the ballot!",
+                    "This election is about:\n\n- Protecting reproductive rights\n- Ensuring our elections continue to be safe and fair\n- Funding our public schools \n\nBut it\u2019s also about kindness and decency.",
+                    "The stakes could not be higher this November. \n\nReproductive rights are on the ballot, and the governor\u2019s office is the last line of defense against an abortion ban in Minnesota.",
+                    "It may be cold outside but Minnesotans are fired up and ready to get out the vote!"
+                ]
+            },
+            "2": {
+                "title": "",
+                "content": "The user selectively highlights negative actions and attributes of Donald Trump, framing him as a significant threat to freedoms and societal progress. The framing contrasts Trump with Biden, portraying the latter as a bringer of economic benefits.",
+                "evidence": [
+                    "This election is about what direction the country will go in.\n\nDonald Trump would damn sure take us backwards.\n\nDon't believe him when he plays dumb: He knows exactly what Project 2025 will do to restrict our freedoms.",
+                    "Last night, Donald Trump endorsed my opponent.\n\nThis isn\u2019t a shock: Jensen has spent this campaign emulating Trump by embracing the Big Lie and pledging to jail Secretary Steve Simon. \n\nMinnesota will not be divided by dangerous conspiracy theories and hateful rhetoric.",
+                    "When Trump comes to Minnesota he brings a litany of grievances.\n\nWhen Biden comes to Minnesota he brings money and jobs. \n",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear.",
+                    "Monitoring medical records, restricting the travel of pregnant women, criminalizing people for seeking health care\u2026\n\nThis is scary and wrong. \n\nVote to stop them. Vote for freedom. ",
+                    "Donald Trump axed Roe v. Wade \u2014 and his radical attacks on reproductive freedoms won\u2019t stop there if he\u2019s re-elected.\n\nThe choice couldn\u2019t be clearer this November. ",
+                    "Donald Trump sunk the bipartisan border security bill so he could run on the issue. He\u2019d rather play politics for his benefit than secure our border. Kamala Harris will make sure we pass the damn thing.",
+                    "Project 2025 gives Donald Trump the unchecked power to restrict our freedoms.\n\nWe are not going to let that happen. ",
+                    "This election is a binary choice. \n\nTrump, who shows up with a tired list of lies and grievances. \n\nOr Biden, who shows up with money and jobs for the middle class. ",
+                    "Our opponent\u2019s anti-LGBTQ+ remarks have real-life consequences. Someone who refuses to represent all of our communities is unacceptable and does NOT represent Minnesota."
+                ]
+            },
+            "11": {
+                "title": "",
+                "content": "The user consistently emphasizes and celebrates achievements in local governance, focusing on collaboration and inclusion to reinforce their credibility and leadership. This pattern is evident in their dedication to move the state of Minnesota forward collectively.",
+                "evidence": [
+                    "We must continue to create a state that\u2019s inclusive and welcoming \u2013 and that means protecting, loving, and valuing our LGBTQ+ community across Minnesota.",
+                    "Together, we\u2019ve made real progress for Minnesotans by:\n\n\u2705 Making record investments in education\n\u2705 Strengthening our economy\n\u2705 Protecting reproductive rights  \n\nI\u2019m proud of our work, but we must continue to work together to move Minnesota forward.",
+                    "Over the last four years, our state has overcome many challenges. But we\u2019ve learned a lot, made real change, and we\u2019re ready to continue to move our state forward.\n",
+                    "I'm honored to be endorsed by more than 30 Minnesota mayors. Because coming together to hear about what's happening at the local level is critical in continuing to move our state forward as One Minnesota.\n",
+                    "One Minnesota means continuing to build a state that values and protects all of our people.",
+                    "Minnesotans are making it clear: They're ready to keep moving forward as One Minnesota.",
+                    "Our diversity is what makes us One Minnesota.",
+                    "Our state has made great strides by investing in Minnesotans \u2014 from students to workers to seniors. Let\u2019s keep working together to move Minnesota forward."
+                ]
+            },
+            "10": {
+                "title": "",
+                "content": "The user consistently expresses positivity and community engagement, focusing on collective success and shared enthusiasm. This is reflected in their focus on optimism, unity, and appreciation for specific community groups. They are likely to continue this trend in contexts that emphasize campaign efforts, community support, or recognition of contributions.",
+                "evidence": [
+                    "I cannot thank our volunteers enough for their energy, passion, and enthusiasm. They\u2019re all gas, no breaks. \n\nYou can feel it: together, we\u2019re going to win this thing. ",
+                    "Together, we\u2019ve made real progress for Minnesotans by:\n\n\u2705 Making record investments in education\n\u2705 Strengthening our economy\n\u2705 Protecting reproductive rights  \n\nI\u2019m proud of our work, but we must continue to work together to move Minnesota forward.",
+                    "I\u2019m working to expand economic opportunity by increasing access to training programs and community college to create pathways to lifelong careers. \n\nOur work is not done, but we\u2019re making progress for Minnesota.",
+                    "Since taking office, I\u2019ve:\n \n\u2192 Led Minnesota to our lowest unemployment rate\n\u2192 Signed the largest middle-class tax cut\n\u2192 Passed frontline hero pay\n \nWorking alongside Minnesotans, we can continue to strengthen our economy.",
+                    "The energy and enthusiasm is on our side. You can feel it.",
+                    "The momentum is on our side, people. You can feel the optimism in the air. ",
+                    "While their campaign is based on fear, our campaign is based on joy.\n\nAnd it all starts with @KamalaHarris. "
+                ]
+            },
+            "12": {
+                "title": "",
+                "content": "The individual consistently uses emotionally charged language to critique political opponents, emphasizing themes of inequality, threats to public institutions, and social justice.",
+                "evidence": [
+                    "We have to listen to what the candidates are saying and decide the kind world we want to live in. \n\nTheir visions for America couldn\u2019t be more stark.",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear.",
+                    "Scott Jensen\u2019s extreme rhetoric has real-life consequences. And this November, Minnesotans will reject his hateful and fearful message and come together to move our state forward.",
+                    "Our opponents have shown us who they are and what they want to do to our public schools \u2013 and our teachers are taking them at their word.\n \nWe must reject their politics of fear and hate, come together, and make our voices heard this November.\n \nLet\u2019s get to work \ud83d\udcaa ",
+                    "Our opponent\u2019s anti-LGBTQ+ remarks have real-life consequences. Someone who refuses to represent all of our communities is unacceptable and does NOT represent Minnesota.",
+                    "While their campaign is based on fear, our campaign is based on joy.\n\nAnd it all starts with @KamalaHarris. ",
+                    "Scott Jensen has demonized our teachers and promised to cut funding from public schools in order to cut taxes for the rich.\n\nHe's not for Minnesota."
+                ]
+            },
+            "17": {
+                "title": "",
+                "content": "The user consistently frames political discourse around the protection of individual rights, particularly reproductive rights, stressing the urgency and high stakes of these issues. They particularly emphasize the crucial role of government, especially Democratic leadership, in safeguarding these rights against opposing parties perceived as threats.",
+                "evidence": [
+                    "Reproductive rights are on the ballot. The stakes are clear and they could not be higher.",
+                    "Reproductive rights are on the ballot \u2013 and the governor\u2019s office is now the last line of defense against an abortion ban in our state.\n\nThe stakes could not be higher.",
+                    "To protect reproductive rights across Minnesota, we need to win. \n",
+                    "As MAGA Republicans in Congress block any federal action to restore reproductive rights, Democratic governors have codified reproductive rights into state law, used executive power to ensure women and providers are safe, and vetoed harmful abortion restrictions.",
+                    "This election is about:\n\n- Protecting reproductive rights\n- Ensuring our elections continue to be safe and fair\n- Funding our public schools \n\nBut it\u2019s also about kindness and decency.",
+                    "Here in Minnesota, we believe in the fundamental right to reproductive health care and safe abortions. The governor\u2019s office is the last line of defense to protect this right, and we\u2019re fighting with all we\u2019ve got."
+                ]
+            },
+            "4": {
+                "title": "",
+                "content": "The user consistently frames political figures, specifically \"Trump and Vance,\" as threats to core societal values, employing a narrative that positions them as antagonists to notions of freedom, moral principles, and communal support.",
+                "evidence": [
+                    "Trump and Vance talk a lot about \u201cfreedom\u201d \u2013 meaning government should be free to invade your bedroom, your children\u2019s school library, and doctor\u2019s office.\n \nThat isn\u2019t freedom.",
+                    "Is Trump and Vance\u2019s Project 2025 weird? Absolutely. \n\nBut it\u2019s also dangerous and wrong for the American people.",
+                    "Donald Trump and JD Vance see those less fortunate as scapegoats and punchlines for their jokes. We see them as our neighbors.",
+                    "I'll just say it: Donald Trump and JD Vance are creepy and, yes, weird. \n\nWe are not going back.",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear."
+                ]
+            },
+            "5": {
+                "title": "",
+                "content": "The user consistently showcases gratitude, camaraderie, and partnership with fellow Democrats through their tweets.",
+                "evidence": [
+                    "What an incredible first night of the Democratic National Convention. The energy here is electric.\n\nAll I have to say is: Thank you, Joe. ",
+                    "Thank you, Gov! Excited to keep working together to show the country how dem govs get it done. ",
+                    "I\u2019m grateful for the years we\u2019ve worked together, and I\u2019m grateful to call you my friend.\n\nHonored to have your support, @amyklobuchar. ",
+                    "Proud to be @KamalaHarris' running mate and unofficial campaign photographer. \ud83d\ude0e",
+                    "Thank you for your friendship and partnership, @gretchenwhitmer. Excited to keep working together to win elections and improve lives across the country. "
+                ]
+            },
+            "8": {
+                "title": "",
+                "content": "The user consistently employs positive language and selective information to highlight economic and policy achievements in Minnesota, often emphasizing leadership, progress, and collective effort.",
+                "evidence": [
+                    "With a historically low unemployment rate and one of the highest labor participation rates in the country, Minnesota\u2019s economy is strong and growing.",
+                    "Minnesota's growing jobs and expanding our economy at a record-breaking pace. As governor, I'll continue to strengthen our economy for everyone. ",
+                    "Minnesota's economy is strong and growing.\n\nWe have the lowest unemployment rate in the nation, one of the highest labor participation rates, and we have the fifth-highest job growth.\n\nThat's because we invest in what matters \u2013 our businesses and our workers.",
+                    "Since taking office, I\u2019ve:\n \n\u2192 Led Minnesota to our lowest unemployment rate\n\u2192 Signed the largest middle-class tax cut\n\u2192 Passed frontline hero pay\n \nWorking alongside Minnesotans, we can continue to strengthen our economy.",
+                    "Together, we\u2019ve made real progress for Minnesotans by:\n\n\u2705 Making record investments in education\n\u2705 Strengthening our economy\n\u2705 Protecting reproductive rights  \n\nI\u2019m proud of our work, but we must continue to work together to move Minnesota forward."
+                ]
+            },
+            "9": {
+                "title": "",
+                "content": "The user consistently emphasizes a dualistic view in their political discourse, focusing on contrasting political figures as representatives of oppositional values such as reproductive rights, democracy, economic benefit, and moral decency.",
+                "evidence": [
+                    "We have to listen to what the candidates are saying and decide the kind world we want to live in. \n\nTheir visions for America couldn\u2019t be more stark.",
+                    "This election is about:\n\n- Protecting reproductive rights\n- Ensuring our elections continue to be safe and fair\n- Funding our public schools \n\nBut it\u2019s also about kindness and decency.",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear.",
+                    "There\u2019s so much on the line this November \u2013 ensure your voice is heard by making a plan to vote:",
+                    "This election is a binary choice. \n\nTrump, who shows up with a tired list of lies and grievances. \n\nOr Biden, who shows up with money and jobs for the middle class. "
+                ]
+            },
+            "13": {
+                "title": "",
+                "content": "The user consistently uses inclusive language to promote unity and collective progress by referring to 'One Minnesota'. This approach suggests a cognitive tendency towards prioritizing cohesion, community engagement, and collaboration across differences.",
+                "evidence": [
+                    "We must continue to create a state that\u2019s inclusive and welcoming \u2013 and that means protecting, loving, and valuing our LGBTQ+ community across Minnesota.",
+                    "Over the last few years, we\u2019ve proven that we can work together across lines of difference to get things done \u2013 that\u2019s what it means to be One Minnesota. \n\nWe might not agree on everything, but we can find common ground to improve lives. That\u2019s what I\u2019m working to do.",
+                    "Minnesotans are making it clear: They're ready to keep moving forward as One Minnesota.",
+                    "Our diversity is what makes us One Minnesota.",
+                    "One Minnesota doesn't mean we all agree \u2013 it means that we\u2019re in this together, and we work across lines of difference to improve lives and get things done."
+                ]
+            },
+            "15": {
+                "title": "",
+                "content": "The user consistently contrasts personal values of kindness, decency, and representation with their opponents' perceived negative qualities, particularly focusing on themes of hate, fear, and exclusion. They emphasize the importance of voting to uphold these positive values.",
+                "evidence": [
+                    "Honesty and decency are what we should expect from our leaders \u2013 not hate and disinformation.",
+                    "Our opponent\u2019s anti-LGBTQ+ remarks have real-life consequences. Someone who refuses to represent all of our communities is unacceptable and does NOT represent Minnesota.",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear.",
+                    "This election is about:\n\n- Protecting reproductive rights\n- Ensuring our elections continue to be safe and fair\n- Funding our public schools \n\nBut it\u2019s also about kindness and decency.",
+                    "Monitoring medical records, restricting the travel of pregnant women, criminalizing people for seeking health care\u2026\n\nThis is scary and wrong. \n\nVote to stop them. Vote for freedom. "
+                ]
+            },
+            "20": {
+                "title": "",
+                "content": "Advocating for Policy Change - This individual frequently emphasizes progressive policy changes, particularly around cannabis legalization and reproductive rights. Their tweets reflect a consistent pattern of promoting action and legal reforms in these areas.",
+                "evidence": [
+                    "Federal pardons for marijuana possession are a critical step forward, but Minnesotans want us to #LegalizeMN and expunge cannabis possession convictions. It\u2019s time.",
+                    "I trust Minnesotans to make their own decisions when it comes to the use of adult-use, recreational cannabis. It's time we #LegalizeMN.",
+                    "Reproductive rights are on the ballot \u2013 and the governor\u2019s office is now the last line of defense against an abortion ban in our state.\n\nThe stakes could not be higher.",
+                    "The stakes could not be higher this November. \n\nReproductive rights are on the ballot, and the governor\u2019s office is the last line of defense against an abortion ban in Minnesota.",
+                    "Here in Minnesota, we believe in the fundamental right to reproductive health care and safe abortions. The governor\u2019s office is the last line of defense to protect this right, and we\u2019re fighting with all we\u2019ve got."
+                ]
+            },
+            "21": {
+                "title": "",
+                "content": "The user consistently promotes the concept of 'One Minnesota' with an emphasis on inclusivity, unity, and resilience against divisive rhetoric, particularly contrasting these values with those of their opponents.",
+                "evidence": [
+                    "Our diversity is what makes us One Minnesota.",
+                    "One Minnesota means continuing to build a state that values and protects all of our people.",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear.",
+                    "One Minnesota doesn't mean we all agree \u2013 it means that we\u2019re in this together, and we work across lines of difference to improve lives and get things done.",
+                    "Minnesotans are making it clear: They're ready to keep moving forward as One Minnesota."
+                ]
+            },
+            "22": {
+                "title": "",
+                "content": "The user consistently employs a juxtaposition of fear-based and hopeful messaging to motivate political action, emphasizing the stakes of elections on issues like reproductive rights and the differing visions of America proposed by candidates.",
+                "evidence": [
+                    "Reproductive rights are on the ballot. The stakes are clear and they could not be higher.",
+                    "This election is about:\n\n- Protecting reproductive rights\n- Ensuring our elections continue to be safe and fair\n- Funding our public schools \n\nBut it\u2019s also about kindness and decency.",
+                    "Monitoring medical records, restricting the travel of pregnant women, criminalizing people for seeking health care\u2026\n\nThis is scary and wrong. \n\nVote to stop them. Vote for freedom. ",
+                    "We have to listen to what the candidates are saying and decide the kind world we want to live in. \n\nTheir visions for America couldn\u2019t be more stark.",
+                    "While their campaign is based on fear, our campaign is based on joy.\n\nAnd it all starts with @KamalaHarris. "
+                ]
+            },
+            "25": {
+                "title": "",
+                "content": "The user consistently contrasts the positive qualities and actions of Joe Biden against the perceived negative behaviors and intentions of Donald Trump.",
+                "evidence": [
+                    "When Trump comes to Minnesota he brings a litany of grievances.\n\nWhen Biden comes to Minnesota he brings money and jobs. \n",
+                    "This election is a binary choice. \n\nTrump, who shows up with a tired list of lies and grievances. \n\nOr Biden, who shows up with money and jobs for the middle class. ",
+                    "Joe Biden\u2019s stunning act of patriotism proves yet again why he\u2019s a better president and a better man than Donald Trump. Biden cares more about the country than he does about himself.",
+                    "Donald Trump and JD Vance see those less fortunate as scapegoats and punchlines for their jokes. We see them as our neighbors.",
+                    "Biden demonstrates he\u2019s a commander in chief with wisdom, protecting our democracy and upholding freedoms at home and abroad.\n\nTrump, on the other hand, revealed his plans to monitor Americans\u2019 medical records and criminalize women seeking health care.\n"
+                ]
+            },
+            "27": {
+                "title": "",
+                "content": "Reoccurring Narrative of Unity and Progress",
+                "evidence": [
+                    "Over the last few years, we\u2019ve proven that we can work together across lines of difference to get things done \u2013 that\u2019s what it means to be One Minnesota. \n\nWe might not agree on everything, but we can find common ground to improve lives. That\u2019s what I\u2019m working to do.",
+                    "Minnesotans are making it clear: They're ready to keep moving forward as One Minnesota.",
+                    "One Minnesota doesn't mean we all agree \u2013 it means that we\u2019re in this together, and we work across lines of difference to improve lives and get things done.",
+                    "Four years ago, I ran on a message of One Minnesota, and I believe in it more than ever. We\u2019ve endured a lot of challenges over the years, but by coming together and investing in our people, we\u2019ve come back stronger.",
+                    "Let\u2019s keep moving forward, as One Minnesota. "
+                ]
+            },
+            "29": {
+                "title": "",
+                "content": "The user consistently highlights and emphasizes the negative aspects of Scott Jensen's stance and actions on vaccines and treatments, portraying him as a danger and an extremist unfit for political office.",
+                "evidence": [
+                    "Let's be clear: Scott Jensen is known for encouraging Minnesotans not to get the vaccine and pushing dangerous, disproven treatments.",
+                    "Let\u2019s call it like it is: Scott Jensen spent the pandemic spreading dangerous misinformation about vaccines and treatments. \n\nHis extreme views make him unfit to be governor.",
+                    "Let\u2019s call it like it is: Scott Jensen is an extremist who spent the pandemic spreading dangerous misinformation about life saving vaccines.\n\nHe\u2019s too extreme for Minnesota. Chip in to help us stop him.\n",
+                    "Scott Jensen put Minnesotans at risk by spreading dangerous misinformation about COVID-19 and pushing disproven treatments like ivermectin.",
+                    "Scott Jensen said that drug company marketing strategies influenced his prescribing practices \u2013 and it shows."
+                ]
+            },
+            "30": {
+                "title": "",
+                "content": "The user frequently uses language suggesting fear and danger associated with political opponents, contrasted with positive values associated with their own campaign. This pattern involves frequently highlighting what they perceive as threats, projecting an image of protective action through their campaigning and affiliation with individuals like Kamala Harris.",
+                "evidence": [
+                    "While their campaign is based on fear, our campaign is based on joy.\n\nAnd it all starts with @KamalaHarris. ",
+                    "Cats. Women. Kamala Harris.\n\nThey all scare the hell out of these guys. ",
+                    "Monitoring medical records, restricting the travel of pregnant women, criminalizing people for seeking health care\u2026\n\nThis is scary and wrong. \n\nVote to stop them. Vote for freedom. ",
+                    "Is Trump and Vance\u2019s Project 2025 weird? Absolutely. \n\nBut it\u2019s also dangerous and wrong for the American people.",
+                    "My opponent\u2019s extreme and dangerous rhetoric does not reflect the values of Minnesota. \n\nThis November, we\u2019re making our voices heard and standing against hate and fear."
+                ]
+            },
+            "7": {
+                "title": "",
+                "content": "The user consistently references personal military service as a means to establish credibility and connect shared values with their audience.",
+                "evidence": [
+                    "To all current and former service members: Thank you for your courage and integrity. I will always fight to ensure you\u2019re taken care of when you return home.",
+                    "Everybody has a responsibility to contribute \u2013 and for me, it was serving in the Army National Guard.\n\nI proudly wore our country\u2019s uniform for 24 years.",
+                    "Honored to have the support from so many of Minnesota\u2019s veterans.\n\nIt\u2019s critical that our service members are taken care of when they return home. That\u2019s how we can continue to move our state forward. ",
+                    "Let me be clear: I am damn proud of my service to this country."
+                ]
+            },
+            "16": {
+                "title": "",
+                "content": "The user frequently highlights their professional background and past achievements in their tweets to build credibility and justify their actions or goals.",
+                "evidence": [
+                    "I\u2019m working to fully fund our public schools. That\u2019s what our students and teachers need.",
+                    "As a former teacher, I understand the importance of investing in our public schools.\n\nThat's why I signed the largest education funding increase in over 15 years.\n\nBut there's so much more we can do to fully fund our public schools.",
+                    "Under my leadership I've:\n\n- Balanced every budget\n- Cut taxes for the middle class and working families\n- Added money to the state's rainy day fund\n- Made historic investments in our public schools \n\nAnd when I'm reelected, we'll continue our progress.",
+                    "I\u2019m working to expand economic opportunity by increasing access to training programs and community college to create pathways to lifelong careers. \n\nOur work is not done, but we\u2019re making progress for Minnesota."
+                ]
+            },
+            "18": {
+                "title": "",
+                "content": "Expression of Gratitude and Community Empowerment",
+                "evidence": [
+                    "I cannot thank our volunteers enough for their energy, passion, and enthusiasm. They\u2019re all gas, no breaks. \n\nYou can feel it: together, we\u2019re going to win this thing. ",
+                    "I\u2019m grateful for the years we\u2019ve worked together, and I\u2019m grateful to call you my friend.\n\nHonored to have your support, @amyklobuchar. ",
+                    "You can feel the energy today! Great stop at our office in St. Paul earlier where our volunteers are ready to knock on some doors and make sure everyone votes!",
+                    "Had a wonderful time with the Latino community in Worthington today. Celebrating the diversity of our state is how we continue to move forward as One Minnesota, where all are welcome. "
+                ]
+            },
+            "19": {
+                "title": "",
+                "content": "Utilizing Endorsements and Affiliations to Build Legitimacy",
+                "evidence": [
+                    "I'm honored to be endorsed by more than 30 Minnesota mayors. Because coming together to hear about what's happening at the local level is critical in continuing to move our state forward as One Minnesota.\n",
+                    "You can feel the energy behind Kamala Harris tonight.\n\nShe\u2019s tough, she\u2019s experienced, and she\u2019s ready.\n\nJoin us in making her the 47th President of the United States. ",
+                    "Kamala Harris has always fought on the side of the American people. And she does it with energy, passion, and joy. Watch live as she accepts the Democratic nomination for President of the United States. ",
+                    "While their campaign is based on fear, our campaign is based on joy.\n\nAnd it all starts with @KamalaHarris. "
+                ]
+            },
+            "23": {
+                "title": "",
+                "content": "Engaging in community-focused messaging and emphasizing inclusivity and diversity in communications, often linked with local events to foster a sense of unity and common purpose in Minnesota.",
+                "evidence": [
+                    "Our diversity is what makes us One Minnesota.",
+                    "Had a wonderful time with the Latino community in Worthington today. Celebrating the diversity of our state is how we continue to move forward as One Minnesota, where all are welcome. ",
+                    "We must continue to create a state that\u2019s inclusive and welcoming \u2013 and that means protecting, loving, and valuing our LGBTQ+ community across Minnesota.",
+                    "Over the last few years, we\u2019ve proven that we can work together across lines of difference to get things done \u2013 that\u2019s what it means to be One Minnesota. \n\nWe might not agree on everything, but we can find common ground to improve lives. That\u2019s what I\u2019m working to do."
+                ]
+            },
+            "24": {
+                "title": "",
+                "content": "The individual consistently uses collective language to establish unity and foster a sense of shared purpose, particularly focusing on community strength and collaborative efforts.",
+                "evidence": [
+                    "Over the last few years, we\u2019ve proven that we can work together across lines of difference to get things done \u2013 that\u2019s what it means to be One Minnesota. \n\nWe might not agree on everything, but we can find common ground to improve lives. That\u2019s what I\u2019m working to do.",
+                    "One Minnesota doesn't mean we all agree \u2013 it means that we\u2019re in this together, and we work across lines of difference to improve lives and get things done.",
+                    "Our diversity is what makes us One Minnesota.",
+                    "Minnesotans don\u2019t back down when times get tough. We unite to move our state forward \u2013 that\u2019s the spirit of One Minnesota."
+                ]
+            },
+            "3": {
+                "title": "",
+                "content": "The user frequently uses the term 'freedom' as a coded language to emphasize social justice and progressive values, particularly concerning reproductive rights, education, and safety from gun violence. This pattern implies framing 'freedom' in contexts opposing conservative interpretations, anticipating further usage in related discussions or political rhetoric.",
+                "evidence": [
+                    "Freedom.\n\nWhen Republicans use that word, they mean that the government should be free to invade your doctor\u2019s office.",
+                    "Freedom is knowing your kids are safe from gun violence at school. It\u2019s about young people having a real chance at prosperity. It\u2019s about a government that trusts adults to make decisions about when and how to start a family.\n\nThat\u2019s the kind of freedom I believe in.",
+                    "When @KamalaHarris and I talk about freedom, we mean freedom to make your own health care decisions.\n\nThe freedom for children to go to school without worrying if they'll be shot in the halls. \n\nThe freedom for education to be a ticket to the middle class, not to crippling debt."
+                ]
+            },
+            "26": {
+                "title": "",
+                "content": "Consistent Criticism of Perceived Overreach in Fundamental Rights Using the Term 'Freedom'.",
+                "evidence": [
+                    "Freedom.\n\nWhen Republicans use that word, they mean that the government should be free to invade your doctor\u2019s office.",
+                    "Trump and Vance talk a lot about \u201cfreedom\u201d \u2013 meaning government should be free to invade your bedroom, your children\u2019s school library, and doctor\u2019s office.\n \nThat isn\u2019t freedom.",
+                    "Monitoring medical records, restricting the travel of pregnant women, criminalizing people for seeking health care\u2026\n\nThis is scary and wrong. \n\nVote to stop them. Vote for freedom. "
+                ]
+            },
+            "28": {
+                "title": "",
+                "content": "The user consistently uses personal anecdotes about their small-town upbringing as a means to connect with others and enhance relatability and authenticity.",
+                "evidence": [
+                    "Growing up in a small town like Butte, Nebraska \u2013 you learn to take care of each other.\n\nThe family down the road may not think, pray, or love like you \u2013 but they are your neighbors and you look out for them. ",
+                    "I grew up in a small town. JD Vance is dead wrong about what makes small-town America tick.\n\nSmall towns don\u2019t work because everyone is closed-minded and prejudiced. They work because people mind their own damn business.\n\nJD Vance seems to have a real problem minding his. ",
+                    "I grew up in Butte, Nebraska \u2014 a small town of 400. I spent summers on the family farm. I had 24 classmates \u2014 some are here today.\n\nAnd I wouldn\u2019t trade it \u2014 or them \u2014 for the world. "
+                ]
+            }
+        }
+    },
+    "4":
+    {
+        "name": "JD Vance",
+        "profile_pic": "https://pbs.twimg.com/profile_images/1817220042578173953/5r-Qpvgt.jpg",
+        "trends": {
+            "11": {
+                "title": "",
+                "content": "The user consistently contrasts Joe Biden's perceived weaknesses with Donald Trump's strengths, focusing on energy, command of facts, foreign policy, and compassion.",
+                "evidence": [
+                    "Low inflation, rising wages, and a world that wasn't on fire under Trump. Rising inflation, a stagnant economy, and a crisis in every corner of the world under Joe Biden. ",
+                    "On issue after issue, everyday Americans are seeing the contrast that will define this election.\n\nWhere Joe Biden has been a complete failure, Donald Trump as a president was a resounding success. ",
+                    "Donald Trump said that a bloodbath would happen to the American auto industry if Biden kept on promoting Chinese made EVs. \n\nHe of course is 100 percent correct. \n\nAll other reporting about his \"bloodbath\" comment is complete propaganda. The media should be ashamed.",
+                    "An illegal immigrant, previously deported under Trump, came back into our country under Biden's open border and murdered an innocent person. \n\nWhat a shameful argument, made by people who want to cover for Biden's disastrous policies instead of reporting on them. ",
+                    "If we invite millions in and radically reduce deportations, you effectively have an open border. \n\nBiden did this. \n\nTrump will fix it.  ",
+                    "Trump has so much more energy and clarity than Biden, it\u2019s just an insane contrast. One guy can do the job and the other can\u2019t.",
+                    "Yes, Biden was a disaster last night. But that\u2019s only half the story. Trump\u2019s energy and command of the facts revealed a remarkable contrast. ",
+                    "A massively underrated difference between Biden and Trump last night: Donald Trump showed real compassion for the people harmed by Biden\u2019s border policies; Joe Biden showed none.",
+                    "Biden insults our two most important allies in countering China all because they don't believe in open borders. \n\nThis guy's foreign policy is an absolute clown show. \n\n",
+                    "The Biden campaign account is one of the worst in all of politics. Sometimes they post videos that just make their opponent look better than Biden. \n\nKeep it up guys! ",
+                    "Biden is popular among our corrupt elites because they love endless war and unlimited immigration. \n\nDonald Trump stands for normal people, their values, and their prosperity. ",
+                    "The Biden economy: work harder for less. GDP revised down.\n\n"
+                ]
+            },
+            "2": {
+                "title": "",
+                "content": "The user frequently focuses on criticizing perceived failures and corrupt practices of political opponents, especially Biden and his administration, suggesting a pattern of negative campaigning and opposition to their strategies.",
+                "evidence": [
+                    "Biden is trying to destroy what the greatest generation fought for. It\u2019s shameful for him to try to use their sacrifice to promote his agenda.",
+                    "Biden-Harris tries to jail their political rival, then brags about him spending money on lawyers in response. Just the most corrupt regime in American history. ",
+                    "Trump has so much more energy and clarity than Biden, it\u2019s just an insane contrast. One guy can do the job and the other can\u2019t.",
+                    "Alvin Bragg created a fake criminal case and then a corrupt judge tried to muzzle Donald Trump so he couldn\u2019t fight back in the media. \n\nThe definition of election interference.",
+                    "Biden insults our two most important allies in countering China all because they don't believe in open borders. \n\nThis guy's foreign policy is an absolute clown show. \n\n",
+                    "The Biden campaign account is one of the worst in all of politics. Sometimes they post videos that just make their opponent look better than Biden. \n\nKeep it up guys! ",
+                    "\u201cA standard period of availability\u201d for money that is a 1) hotly contested political issue and 2) was literally already used as a pretext to impeach Trump. \n\nThese people don\u2019t even try anymore. ",
+                    "Tonight's rant from Joe Biden is further evidence that all of the lawfare against President Trump was cooked up by Biden and his team. The corrupt lawfare against Trump was their main election strategy and they're furious that it's backfiring on them."
+                ]
+            },
+            "4": {
+                "title": "",
+                "content": "The user exhibits a pattern of negative framing and emotionally charged language when referencing Kamala Harris, often labeling her as 'fake' and dismissing her actions as insincere.",
+                "evidence": [
+                    "Kamala Harris questioned my loyalty to America. I enlisted in the Marines for this country. I went to Iraq for this country. I built a business for this country. And my running mate took a bullet for this country. What the hell has Kamala done to question our loyalty to America?",
+                    "Kamala Harris wants a promotion but refuses to interview for the job. \n\n",
+                    "Kamala Harris is a fake.\n\nIf she wants to build the border wall, she could start right now! ",
+                    "President Trump answers tough questions all the time. I regularly do interviews with mainstream media (I did four this morning). \n\nWhy is the media OK with Kamala Harris avoiding tough questions? \n\nAren't Americans entitled to learn about the people who want to lead them?",
+                    "Kamala Harris can't say \"here are all the ways I've made your life better\" because her policies made food and housing more expensive.\n\nThe Democrats' argument is: you're a bad person if you vote for Donald Trump. \n\nIt's insulting and the American people won't buy it.",
+                    "Kamala Harris isn\u2019t running a presidential campaign. She\u2019s producing a movie. Everything is scripted everywhere she goes.\n\nShe\u2019s fundamentally a fake person who changes her tune depending on what audience she\u2019s in front of. ",
+                    "As Kamala Harris talks a big game about standing up for workers, remember that her administration wanted to fire hundreds of thousands of people for refusing the COVID shot. \n\nIt's all fake, like her entire campaign. Talking points borrowed from President Trump to hide her record",
+                    "Kamala sounds like a third grader giving a book report on a book she didn\u2019t read."
+                ]
+            },
+            "5": {
+                "title": "",
+                "content": "The user consistently uses loaded terminology to appeal to a specific ideological audience, often referencing the perceived failures of political figures or policies that contrast with their personal political stance.",
+                "evidence": [
+                    "Border Czar Kamala Harris has allowed the cartels to poison hundreds of thousands of our citizens. Now she wants a promotion. Hell no!",
+                    "Feels like a lot of journalists have lost their minds",
+                    "Biden-Harris tries to jail their political rival, then brags about him spending money on lawyers in response. Just the most corrupt regime in American history. ",
+                    "This is totally loathsome behavior. The resentment. The pettiness. The \"I'm going to use my tiny bit of influence to accomplish indirectly what I could never accompish directly.\" If you're a young person and find yourself thinking like this, just stop.",
+                    "Kamala Harris cast the deciding vote for the Green New Scam, which sent mortgate rates through the roof. As border czar, she let millions of illegal aliens compete with Americans for scarce housing. \n\nPresident Trump and I will fight for your ability to afford a nice home.",
+                    "Alvin Bragg created a fake criminal case and then a corrupt judge tried to muzzle Donald Trump so he couldn\u2019t fight back in the media. \n\nThe definition of election interference.",
+                    "\u201cA standard period of availability\u201d for money that is a 1) hotly contested political issue and 2) was literally already used as a pretext to impeach Trump. \n\nThese people don\u2019t even try anymore. "
+                ]
+            },
+            "12": {
+                "title": "",
+                "content": "The user frequently employs emotionally charged language aimed at challenging the credibility and integrity of political opponents and legal proceedings.",
+                "evidence": [
+                    "The far-left prosecutors and corrupt judge overseeing the case against President Trump have completely eroded the credibility of this court.\n\nRegardless of the outcome, the American people rightfully see this trial as a sham. ",
+                    "Biden is trying to destroy what the greatest generation fought for. It\u2019s shameful for him to try to use their sacrifice to promote his agenda.",
+                    "This is disgraceful. It\u2019s time for Republicans to unite and fight back against this lawfare.",
+                    "The Biden administration wants Trump to die in jail and they want to bankrupt his family. It is the biggest assault on democracy we've ever seen. If you're too cowardly to call it out, you're not ready for this moment in American politics.",
+                    "Biden-Harris tries to jail their political rival, then brags about him spending money on lawyers in response. Just the most corrupt regime in American history. ",
+                    "Alvin Bragg created a fake criminal case and then a corrupt judge tried to muzzle Donald Trump so he couldn\u2019t fight back in the media. \n\nThe definition of election interference.",
+                    "Biden insults our two most important allies in countering China all because they don't believe in open borders. \n\nThis guy's foreign policy is an absolute clown show. \n\n"
+                ]
+            },
+            "1": {
+                "title": "",
+                "content": "The user consistently articulates grievances through vague and broad accusations against political figures, focusing predominately on perceived injustices against Donald Trump and critiquing support for Ukraine, GOP establishment actions, and legal proceedings.",
+                "evidence": [
+                    "\u201cA standard period of availability\u201d for money that is a 1) hotly contested political issue and 2) was literally already used as a pretext to impeach Trump. \n\nThese people don\u2019t even try anymore. ",
+                    "\n\nThe obsession with funding endless war in Ukraine is, intentionally or not, an effort within the GOP establishment to stop the election of Donald Trump.\n\nIt is a plot against the president.",
+                    "I\u2019m certainly bothered by it. \n\nPerhaps Mike Johnson should stop going on TV and telling the world that Donald Trump endorses every piece of his ridiculous betrayal. ",
+                    "Cohen\u2019s lies sink the case against Donald Trump. \n\n",
+                    "Alvin Bragg created a fake criminal case and then a corrupt judge tried to muzzle Donald Trump so he couldn\u2019t fight back in the media. \n\nThe definition of election interference."
+                ]
+            },
+            "3": {
+                "title": "",
+                "content": "A consistent pattern of skepticism towards the legal and political actions taken against Donald Trump, frequently accusing entities involved of corruption and bias.",
+                "evidence": [
+                    "Alvin Bragg created a fake criminal case and then a corrupt judge tried to muzzle Donald Trump so he couldn\u2019t fight back in the media. \n\nThe definition of election interference.",
+                    "\u201cA standard period of availability\u201d for money that is a 1) hotly contested political issue and 2) was literally already used as a pretext to impeach Trump. \n\nThese people don\u2019t even try anymore. ",
+                    "The far-left prosecutors and corrupt judge overseeing the case against President Trump have completely eroded the credibility of this court.\n\nRegardless of the outcome, the American people rightfully see this trial as a sham. ",
+                    "Cohen\u2019s lies sink the case against Donald Trump. \n\n",
+                    "Biden-Harris tries to jail their political rival, then brags about him spending money on lawyers in response. Just the most corrupt regime in American history. "
+                ]
+            },
+            "6": {
+                "title": "",
+                "content": "Consistent Criticism of Political Opponents' Immigration and Economic Policies",
+                "evidence": [
+                    "This is worth emphasizing. Illegal immigration is stealing the right to vote away from American citizens. It devalues your vote by devaluing your congressional representation.",
+                    "An illegal immigrant, previously deported under Trump, came back into our country under Biden's open border and murdered an innocent person. \n\nWhat a shameful argument, made by people who want to cover for Biden's disastrous policies instead of reporting on them. ",
+                    "To fix the immigration problem, we need to stop catch and release. We need to stop granting asylum to every single person who comes here, and we need to stop granting mass parole.\n\nIn other words, we need to fire Kamala Harris and let President Donald Trump do what he does best. ",
+                    "If we invite millions in and radically reduce deportations, you effectively have an open border. \n\nBiden did this. \n\nTrump will fix it.  ",
+                    "Kamala Harris promising to give welfare, amnesty, and voting rights to millions of illegal immigrants. Just kicking the citiziens of your own country when they're down. "
+                ]
+            },
+            "9": {
+                "title": "",
+                "content": "The user consistently links immigration to crime and security threats, often using emotionally charged language to reinforce their stance.",
+                "evidence": [
+                    "The administration is welcoming criminals into our country, and breaking our immigration laws to let them stay. ",
+                    "An illegal immigrant, previously deported under Trump, came back into our country under Biden's open border and murdered an innocent person. \n\nWhat a shameful argument, made by people who want to cover for Biden's disastrous policies instead of reporting on them. ",
+                    "If we invite millions in and radically reduce deportations, you effectively have an open border. \n\nBiden did this. \n\nTrump will fix it.  ",
+                    "Joe Biden has promoted a culture that places criminals above victims and predators over cops. \n\nDonald Trump offers a different path. \n\nAmerica gets to choose in November. ",
+                    "Illegal aliens do steal peoples\u2019 identities and then fraudulently procure social security benefits. \n\nI think we should deport those people and protect social security. \n\nIt\u2019s shameful that you pretend this doesn\u2019t happen. It does.  "
+                ]
+            },
+            "13": {
+                "title": "",
+                "content": "The user consistently highlights and criticizes perceived failures of Kamala Harris's policies using charged language and selective information release. This pattern indicates a cognitive bias towards unfavorable portrayal, often comparing her actions negatively to Donald Trump's.",
+                "evidence": [
+                    "As Kamala Harris talks a big game about standing up for workers, remember that her administration wanted to fire hundreds of thousands of people for refusing the COVID shot. \n\nIt's all fake, like her entire campaign. Talking points borrowed from President Trump to hide her record",
+                    "Kamala Harris has pursued a policy of allowing large numbers of unvetted migrants into our country. \n\nIt has led to predictable and extremely tragic results. ",
+                    "Kamala Harris promising to give welfare, amnesty, and voting rights to millions of illegal immigrants. Just kicking the citiziens of your own country when they're down. ",
+                    "This is a massive story. Kamala Harris's administration encouraged Facebook to censor information about Donald Trump. \n\nPresident Trump will fight for your ability to speak your mind.\n\nKamala Harris would rather shut you up than persuade you. Some leader\n\n",
+                    "\n\nAn incredible interview. A few critical points so far:\n\n1) Kamala Harris doesn't trust people to make up their minds. That's why she's so dedicated to censorship. \n\n2) Donald Trump and RFK defied our corrupt leadership, and the oligarchs hate them for it"
+                ]
+            },
+            "15": {
+                "title": "",
+                "content": "Perpetuation of a victimization narrative, highlighting perceived political and legal opposition against President Trump.",
+                "evidence": [
+                    "Alvin Bragg created a fake criminal case and then a corrupt judge tried to muzzle Donald Trump so he couldn\u2019t fight back in the media. \n\nThe definition of election interference.",
+                    "Today is not just some isolated incident.\n\nThe central premise of the Biden campaign is that President Donald Trump is an authoritarian fascist who must be stopped at all costs.\n\nThat rhetoric led directly to President Trump's attempted assassination.",
+                    "\n\nThe obsession with funding endless war in Ukraine is, intentionally or not, an effort within the GOP establishment to stop the election of Donald Trump.\n\nIt is a plot against the president.",
+                    "Tonight's rant from Joe Biden is further evidence that all of the lawfare against President Trump was cooked up by Biden and his team. The corrupt lawfare against Trump was their main election strategy and they're furious that it's backfiring on them.",
+                    "This new Ukraine bill tries to make it ILLEGAL for Trump to do what he is promising on the campaign trail. \n\nIt is a plot against the President Trump, plain and simple. "
+                ]
+            },
+            "16": {
+                "title": "",
+                "content": "The user consistently applies emotionally charged and derogatory language towards Kamala Harris and Joe Biden.",
+                "evidence": [
+                    "Kamala Harris isn\u2019t running a presidential campaign. She\u2019s producing a movie. Everything is scripted everywhere she goes.\n\nShe\u2019s fundamentally a fake person who changes her tune depending on what audience she\u2019s in front of. ",
+                    "As Kamala Harris talks a big game about standing up for workers, remember that her administration wanted to fire hundreds of thousands of people for refusing the COVID shot. \n\nIt's all fake, like her entire campaign. Talking points borrowed from President Trump to hide her record",
+                    "Kamala Harris promising to give welfare, amnesty, and voting rights to millions of illegal immigrants. Just kicking the citiziens of your own country when they're down. ",
+                    "President Trump answers tough questions all the time. I regularly do interviews with mainstream media (I did four this morning). \n\nWhy is the media OK with Kamala Harris avoiding tough questions? \n\nAren't Americans entitled to learn about the people who want to lead them?",
+                    "Biden-Harris tries to jail their political rival, then brags about him spending money on lawyers in response. Just the most corrupt regime in American history. "
+                ]
+            },
+            "18": {
+                "title": "",
+                "content": "The individual consistently uses emotionally charged language to criticize political figures or actions. This pattern is characterized by the use of words like 'betrayal,' 'loathsome behavior,' 'corrupt,' and 'shameful' to express discontent or disapproval about perceived political injustices or misconduct.",
+                "evidence": [
+                    "This is totally loathsome behavior. The resentment. The pettiness. The \"I'm going to use my tiny bit of influence to accomplish indirectly what I could never accompish directly.\" If you're a young person and find yourself thinking like this, just stop.",
+                    "I\u2019m certainly bothered by it. \n\nPerhaps Mike Johnson should stop going on TV and telling the world that Donald Trump endorses every piece of his ridiculous betrayal. ",
+                    "Alvin Bragg created a fake criminal case and then a corrupt judge tried to muzzle Donald Trump so he couldn\u2019t fight back in the media. \n\nThe definition of election interference.",
+                    "Biden is trying to destroy what the greatest generation fought for. It\u2019s shameful for him to try to use their sacrifice to promote his agenda.",
+                    "Biden-Harris tries to jail their political rival, then brags about him spending money on lawyers in response. Just the most corrupt regime in American history. "
+                ]
+            },
+            "7": {
+                "title": "",
+                "content": "The user regularly expresses skepticism or distrust towards authority figures and institutions, reinforcing the hypothesis of their questioning nature.",
+                "evidence": [
+                    "Feels like a lot of journalists have lost their minds",
+                    "The new leader of Poland is arresting political opponents and owes his country\u2019s security to the generosity of mine.\n\nHe might consider showing some appreciation, or at least toning down his own authoritarian impulses. ",
+                    "Call me crazy, but I\u2019m more worried a person who shouldn\u2019t be in our country assaulted a police officer. ",
+                    "Maybe the internet was a mistake"
+                ]
+            },
+            "10": {
+                "title": "",
+                "content": "The user consistently engages in binary thinking, often framing complex political issues as polarized, black-and-white scenarios, particularly in critique of President Biden.",
+                "evidence": [
+                    "If Joe Biden doesn't have the cognitive function to run for re-election, then he certainly doesn't have the cognitive function to remain as Commander-In-Chief. \n\nHow can any Dem pushing him to drop out of the presidential race, argue in good faith that he should stay on as POTUS?",
+                    "Biden insults our two most important allies in countering China all because they don't believe in open borders. \n\nThis guy's foreign policy is an absolute clown show. \n\n",
+                    "Biden is trying to destroy what the greatest generation fought for. It\u2019s shameful for him to try to use their sacrifice to promote his agenda.",
+                    "Instead of closing the border &amp; stopping terrorists from entering our country, Biden is focused on this stupid woke crap. Vote Trump!\n\nFox News: Biden senior Pentagon official claims policies focused on nonbinary identities essential for national security\n\n"
+                ]
+            },
+            "14": {
+                "title": "",
+                "content": "The trend observed is that the user consistently employs charged, polarized language to suggest a perceived corruption within the American judicial system, particularly concerning the prosecution of former President Donald Trump. This language serves to align with a politically conservative base that views legal actions against Trump as biased and politically motivated.",
+                "evidence": [
+                    "Biden-Harris tries to jail their political rival, then brags about him spending money on lawyers in response. Just the most corrupt regime in American history. ",
+                    "A Biden DOJ attorney (and DNC consultant) joins a Soros-funded prosecutor's office. That office prosecutes Donald Trump for what the NY Times has called a \"paperwork\" problem. The presiding judge is a Biden campaign donor. \n\nThis is what a \"threat to democracy\" looks like.",
+                    "The far-left prosecutors and corrupt judge overseeing the case against President Trump have completely eroded the credibility of this court.\n\nRegardless of the outcome, the American people rightfully see this trial as a sham. ",
+                    "Even the most leftwing partisans know this is not about justice. This is about getting Donald Trump. \n\nIt's so obviously bogus that even anti-Trumpers hate this case because it reinforces the public perception that this is all a witch hunt. "
+                ]
+            },
+            "17": {
+                "title": "",
+                "content": "The user consistently focuses on critiquing political figures and institutions by highlighting perceived inefficiencies or failures, particularly in the political sphere. This pattern is evident as they repeatedly emphasize issues of political accountability, the effectiveness of political campaigns, and concerns over monopolistic control and surveillance abuse. As such, the user may demonstrate similar behavior when new instances of perceived political or institutional failures arise.",
+                "evidence": [
+                    "\u201cA standard period of availability\u201d for money that is a 1) hotly contested political issue and 2) was literally already used as a pretext to impeach Trump. \n\nThese people don\u2019t even try anymore. ",
+                    "The Biden campaign account is one of the worst in all of politics. Sometimes they post videos that just make their opponent look better than Biden. \n\nKeep it up guys! ",
+                    "Long overdue, but it's time to break Google up. \n\nThis matters far more than any other election integrity issue. The monopolistic control of information in our society resides with an explicitly progressive technology company. ",
+                    "My two cents on FISA: it is absurd to reauthorize the program without significant changes given the ways domestic surveillance has been abused. I will vote accordingly."
+                ]
+            },
+            "8": {
+                "title": "",
+                "content": "The user consistently employs narrative strategies that appeal to a conservative political audience, often aligning with 'America First' values and themes of political corruption against specific authorities.",
+                "evidence": [
+                    "\u201cA standard period of availability\u201d for money that is a 1) hotly contested political issue and 2) was literally already used as a pretext to impeach Trump. \n\nThese people don\u2019t even try anymore. ",
+                    "Don is one of the best people I\u2019ve met in politics. He genuinely believes in America First and works his ass off to make it a reality.",
+                    "Biden-Harris tries to jail their political rival, then brags about him spending money on lawyers in response. Just the most corrupt regime in American history. "
+                ]
             }
         }
     }
