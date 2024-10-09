@@ -12,6 +12,8 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(response => response.json())
         .then(data => {
             const personId = getUrlParameter('person');
+            const item = getUrlParameter('item');
+            const condition = getUrlParameter('condition');
             const personData = data[personId];
 
             if (personData) {
@@ -23,8 +25,19 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Generate trends
                 const trendsContainer = document.getElementById('trends');
                 //trendsContainer.innerHTML = ''; // Clear previous content
-                var item_index = 1;
+                var item_index = 0;
                 for (const key in personData.trends) {
+
+                    // Increase count of items
+                    item_index = item_index + 1;
+                    
+                    // Check if item param is used
+                    if (item){
+                        if (item != item_index){
+                            continue;
+                        }
+                    }
+
                     if (personData.trends.hasOwnProperty(key)) {
                         const trend = personData.trends[key];
 
@@ -41,6 +54,25 @@ document.addEventListener('DOMContentLoaded', function() {
                         const subtitleElement = document.createElement('div');
                         subtitleElement.className = 'trend-subtitle';
                         subtitleElement.textContent = 'Pattern '+item_index;
+
+                        // Create implications container
+                        const implicationsContainer = document.createElement('div');
+                        implicationsContainer.className = 'trend-implications';
+
+                        // Add implication items
+                        if (condition == 1){
+                            trend.implications.forEach(implicationText => {
+                                const implicationsIcon = document.createElement('button');
+                                implicationsIcon.className = 'trend-icon';
+                                implicationsIcon.innerHTML = '<span class="material-icons" style="color:RGB(213, 24, 24);">error</span>';
+                                const implicationsIconText = document.createElement('div');
+                                implicationsIconText.style = 'color:RGB(213, 24, 24); margin: 0 10px 0 10px';
+                                implicationsIconText.innerHTML = implicationText;
+                                
+                                implicationsIcon.appendChild(implicationsIconText);
+                                implicationsContainer.appendChild(implicationsIcon);
+                            });
+                        }
 
                         // Create content element
                         const contentElement = document.createElement('div');
@@ -96,14 +128,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         trendElement.appendChild(subtitleElement);
                         trendElement.appendChild(titleElement);
                         trendElement.appendChild(contentElement);
+                        trendElement.appendChild(implicationsContainer);
                         trendElement.appendChild(optionsContainer);
                         trendElement.appendChild(evidenceContainer);
 
                         // Append trend element to trends container
                         trendsContainer.appendChild(trendElement);
 
-                        // Increase count of items
-                        item_index = item_index + 1;
                     }
                 }
             } else {

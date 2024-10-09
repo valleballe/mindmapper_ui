@@ -88,6 +88,12 @@ body {
 }
 
 
+.trend-implications {
+    display: flex;
+    align-items: center; /* Vertically centers the items */
+    margin: 0 auto 15px 0;
+}
+
 .trend-options {
     display: flex;
     justify-content: space-between; /* Ensures the items are spread out */

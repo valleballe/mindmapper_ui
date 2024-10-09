@@ -6,7 +6,8 @@
         "description":"2024 President Elect of the Democratic Party",
         "trends": {
             "1": {
-                "title": "",
+                "title": "Emotionally Charged Language",
+                "implications":["Increased polarization", "Media Attention and Amplification"],
                 "content": "The user consistently employs emotionally charged language to critique and cast Donald Trump in a negative light, emphasizing alleged threats to democracy and individual freedoms.",
                 "evidence": [
                     "With this election, our nation has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past.\n\nA chance to chart a new way forward.\n",
@@ -33,7 +34,7 @@
                 ]
             },
             "2": {
-                "title": "",
+                "title": "Selective Evidence Against Opponent",
                 "content": "The user consistently highlights potential negative consequences of Donald Trump's possible actions and policies, focusing on areas such as restrictions on personal freedoms, health and contraception access, electoral integrity, and economic strategies. This pattern is indicative of the user's attention to selectively releasing information that portrays Trump in a negative light in order to mobilize political sentiment against him.",
                 "evidence": [
                     "Trump\u2019s Project 2025:\n\n\u2013Bans abortion nationwide\n\u2013Cuts Social Security \n\u2013Eliminates the Department of Education\n\u2013Repeals our $35 cap on insulin for seniors\n\u2013Limits access to contraception\n",
@@ -53,7 +54,7 @@
                 ]
             },
             "11": {
-                "title": "",
+                "title": "Focus on Rights",
                 "content": "Repetitive Emphasis on Opposition Against Trump and Advocacy for Rights",
                 "evidence": [
                     "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won fundamental freedoms and rights. We will not stand for it. \n\nJoin us in the fight for freedom:\n",
@@ -72,7 +73,7 @@
                 ]
             },
             "20": {
-                "title": "",
+                "title": "Emotionally Charged Language",
                 "content": "The user consistently employs emotionally charged language to rally support and influence public opinion on reproductive rights issues, focusing on themes of freedom and choice.",
                 "evidence": [
                     "Donald Trump has vowed that he will be a dictator on \u201cday one.\u201d \n\nHe is a threat to our democracy and our fundamental freedoms.\n",
@@ -88,7 +89,7 @@
                 ]
             },
             "3": {
-                "title": "",
+                "title": "Fear Based Language",
                 "content": "Fear-based messaging is consistently used by the user to emphasize threats to democracy and fundamental freedoms under Trump's leadership.",
                 "evidence": [
                     "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won fundamental freedoms and rights. We will not stand for it. \n\nJoin us in the fight for freedom:\n",
@@ -102,7 +103,7 @@
                 ]
             },
             "6": {
-                "title": "",
+                "title": "Battle Oriented Language",
                 "content": "The user frequently uses rallying and battle-oriented language to inspire collective action and unconditional support for a campaign, emphasizing unity and shared responsibility to achieve positive outcomes.",
                 "evidence": [
                     "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won freedoms and rights. \n\nBut we have the power\u2014and the responsibility\u2014to fight back. \n\nWhen we fight, we win. Join us: ",
@@ -116,7 +117,7 @@
                 ]
             },
             "13": {
-                "title": "",
+                "title": "Broad Motivational Language",
                 "content": "The user consistently employs broad, motivational language focusing on the theme of 'fighting for freedom' and 'unity' without detailing specific actionable steps, aiming to appeal broadly and galvanize support.",
                 "evidence": [
                     "Across our nation, we are witnessing a full-on attack on hard-fought, hard-won fundamental freedoms and rights. We will not stand for it. \n\nJoin us in the fight for freedom:\n",
@@ -366,8 +367,9 @@
         "profile_pic": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m.jpg",
         "trends": {
             "1": {
-                "title": "",
+                "title": "Distrust in Electoral Institutions",
                 "content": "The user consistently engages in rhetoric that questions the legitimacy of democratic processes, suggesting a clear distrust in electoral institutions.",
+                "implications":["Undermine Democratic Processes", "Impact Voter Turnout", "Incite Violence Against Government"],
                 "evidence": [
                     "GREATEST ELECTION FRAUD IN THE HISTORY OF OUR COUNTRY!!!",
                     "Tremendous evidence pouring in on voter fraud. There has never been anything like this in our Country!",
@@ -382,7 +384,7 @@
                 ]
             },
             "2": {
-                "title": "",
+                "title": "Distrust in Electoral Institutions",
                 "content": "The user exhibits a consistent pattern of attributing electoral malpractices or unfavorable election outcomes to external interference, specifically blaming other parties or systems such as the state legislature or electoral process.",
                 "evidence": [
                     "The Vice President has the power to reject fraudulently chosen electors.",
@@ -392,7 +394,7 @@
                 ]
             },
             "3": {
-                "title": "",
+                "title": "Emotionally Charged Language",
                 "content": "There is a consistent use of emotionally charged language to undermine trust in prominent institutions such as the media, big tech, and the court system.",
                 "evidence": [
                     "Martial law = Fake News. Just more knowingly bad reporting!",
@@ -402,7 +404,7 @@
                 ]
             },
             "4": {
-                "title": "",
+                "title": "Propagating Unverified Claims",
                 "content": "The user exhibits a strong pattern of believing and propagating unverified claims related to election fraud. This behavior appears consistently across multiple tweets, suggesting a cognitive bias towards distrust in electoral processes and authority, likely influenced by social reinforcement and confirmation bias.",
                 "evidence": [
                     "The Russia Hoax becomes an even bigger lie!",
@@ -425,7 +427,7 @@
                 ]
             },
             "5": {
-                "title": "",
+                "title": "Divisive Rhetoric",
                 "content": "The user's tweets display a consistent pattern of divisive rhetoric, portraying political opponents as threats to democracy and engaging in conspiracy theories about electoral fraud.",
                 "evidence": [
                     "Twitter is going wild with their flags, trying hard to suppress even the truth. Just shows how dangerous they are, purposely stifling free speech. Very dangerous for our Country. Does Congress know that this is how Communism starts? Cancel Culture at its worst. End Section 230!",
@@ -435,7 +437,7 @@
                 ]
             },
             "6": {
-                "title": "",
+                "title": "Discredit Mainstream Media to Cast Doubt on Opposing Narratives",
                 "content": "A pattern of discrediting mainstream media as a method to cast doubt on opposing narratives.",
                 "evidence": [
                     "Watching @FoxNews is almost as bad as watching Fake News @CNN. New alternatives are developing!",
