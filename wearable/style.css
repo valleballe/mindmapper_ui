@@ -121,7 +121,7 @@ body {
 }
 
 .evidence {
-    display: none;
+    display: block;
     margin-top: 10px;
     width: 100%;
 }
@@ -133,4 +133,32 @@ body {
     margin: 20px 0px 20px 0px;
     border-radius: 4px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.chatbot-container {
+    display: flex;
+    width:100%;
+}
+
+.text-field {
+    flex: 1; /* Allow the fields to grow equally */
+    border: 1.5px solid rgb(120, 120, 120);
+    padding: 30px;
+    border-radius: 8px;
+    overflow: hidden;
+    max-height: 1000px;
+    box-sizing: border-box; /* Include padding and border within the element's size */
+    margin: 0; /* Ensure no extra margins affecting layout */
+}
+
+#chatbot-button {
+    background-color:RGB(122, 150, 185);
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    align-items: center;
+    padding:10px 20px;
+    margin-top: 30px;
+    color:white;
 }

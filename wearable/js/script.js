@@ -1,3 +1,5 @@
+let personData;
+
 document.addEventListener('DOMContentLoaded', function() {
     // Function to get URL parameter
     function getUrlParameter(name) {
@@ -8,25 +10,27 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Fetch data from data.json
-    fetch('data.json')
+    fetch('data/trends_twitter_20.json')
         .then(response => response.json())
         .then(data => {
-            const personId = getUrlParameter('person');
+
+            console.log(data)
             const item = getUrlParameter('item');
             const condition = getUrlParameter('condition');
-            const personData = data[personId];
 
-            if (personData) {
+            if (data) {
                 // Set profile picture and name
-                document.getElementById('profile_pic').src = personData.profile_pic;
-                document.getElementById('profile_name').textContent = "Behavioral Patterns of "+personData.name;
-                document.getElementById('profile_description').textContent = personData.description;
+                //document.getElementById('profile_pic').src = personData.profile_pic;
+                document.getElementById('profile_name').textContent = "Behavioral Patterns";
+                document.getElementById('profile_description').textContent = "The patterns below were identified by having a large language model observe your verbal behavior, generate hypotheses and evaluate evidence.";
 
                 // Generate trends
                 const trendsContainer = document.getElementById('trends');
                 //trendsContainer.innerHTML = ''; // Clear previous content
                 var item_index = 0;
-                for (const key in personData.trends) {
+                for (const key in data) {
+
+                    console.log(key)
 
                     // Increase count of items
                     item_index = item_index + 1;
@@ -38,8 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
                         }
                     }
 
-                    if (personData.trends.hasOwnProperty(key)) {
-                        const trend = personData.trends[key];
+                    if (data.hasOwnProperty(key)) {
+                        const trend = data[key];
 
                         // Create trend element
                         const trendElement = document.createElement('div');
@@ -48,12 +52,12 @@ document.addEventListener('DOMContentLoaded', function() {
                         // Create title element
                         const titleElement = document.createElement('div');
                         titleElement.className = 'trend-title';
-                        titleElement.textContent = trend.title;
+                        titleElement.textContent = trend.hypothesis;
 
                         // Create subtitle element
                         const subtitleElement = document.createElement('div');
                         subtitleElement.className = 'trend-subtitle';
-                        subtitleElement.textContent = 'Pattern '+item_index;
+                        subtitleElement.textContent = 'Pattern ' + item_index;
 
                         // Create implications container
                         const implicationsContainer = document.createElement('div');
@@ -89,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         evidenceIcon.innerHTML = '<span class="material-icons" style="color:RGB(122, 150, 185);">bookmark</span>';
                         const evidenceIconText = document.createElement('div');
                         evidenceIconText.style = 'color:RGB(85, 110, 141);';
-                        evidenceIconText.innerHTML = 'Show Evidence';
+                        evidenceIconText.innerHTML = 'Hide Evidence';
 
                         // Create expand button element
                         const buttonElement = document.createElement('button');
@@ -107,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         trend.evidence.forEach(evidenceText => {
                             const evidenceItem = document.createElement('div');
                             evidenceItem.className = 'evidence-item';
-                            evidenceItem.textContent = "\""+evidenceText+"\"";
+                            evidenceItem.textContent = evidenceText.split("(")[0];
                             evidenceContainer.appendChild(evidenceItem);
                         });
 
@@ -144,3 +148,15 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .catch(error => console.error('Error loading data:', error));
 });
+
+// Call OpenAI with model
+/*document.getElementById('chatbot-button').addEventListener('click', async function() {
+
+    // Get system message
+    let input = document.getElementById('input').innerHTML;
+    
+    // Call openai
+    let result = await callOpenAI(input, personData.trends);
+    document.getElementById('result').innerHTML = result;
+
+});*/

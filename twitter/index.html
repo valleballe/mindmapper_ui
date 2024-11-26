@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Trends</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="profile">
+            <img id="profile_pic" src="" alt="Profile Picture">
+            <div id="profile_container"> 
+                <div id="profile_name"></div>
+                <div id="profile_description"></div>
+            </div>
+        </div>
+        <div class="trend">
+            <div class="trend-title">Inference from Model</div>
+            <div class="chatbot-container">
+                <span id="input"  class="text-field" contenteditable="true">Write system prompt</span>
+                <span id="result" class="text-field" style="margin-left: 10px;">Result from model</span>
+            </div>
+            <button id="chatbot-button">Generate</button>
+        </div>
+        <div id="trends">
+            <div class="trend-title">Behavioral Trends</div>
+            <!--div class="section-title">Behavioral Patterns</div-->
+        </div>
+    </div>
+    <script src="./js/script.js"></script>
+    <script src="./js/openai.js"></script>
+</body>
+</html>
