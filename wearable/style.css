@@ -62,7 +62,7 @@ body {
     align-items: center;
     transition: max-height 0.3s ease;
     overflow: hidden;
-    max-height: 1000px; /* Large value to ensure it expands */
+    max-height: 9999px; /* Large value to ensure it expands */
 }
 
 .trend-title {
@@ -146,7 +146,7 @@ body {
     padding: 30px;
     border-radius: 8px;
     overflow: hidden;
-    max-height: 1000px;
+    max-height: 9999px;
     box-sizing: border-box; /* Include padding and border within the element's size */
     margin: 0; /* Ensure no extra margins affecting layout */
 }

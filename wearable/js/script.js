@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Fetch data from data.json
-    fetch('data/trends_twitter_20.json')
+    fetch('data/trends_twitter_20_p3.json')
         .then(response => response.json())
         .then(data => {
 
@@ -28,6 +28,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 const trendsContainer = document.getElementById('trends');
                 //trendsContainer.innerHTML = ''; // Clear previous content
                 var item_index = 0;
+
+                // Sort data by the number of evidence
+                data.sort((a, b) => b.evidence.length - a.evidence.length);
+
                 for (const key in data) {
 
                     console.log(key)
@@ -109,10 +113,30 @@ document.addEventListener('DOMContentLoaded', function() {
 
                         // Add evidence items
                         trend.evidence.forEach(evidenceText => {
+
+                            if (evidenceText == ""){
+                                return
+                            }
                             const evidenceItem = document.createElement('div');
                             evidenceItem.className = 'evidence-item';
-                            evidenceItem.textContent = evidenceText.split("(")[0];
-                            evidenceContainer.appendChild(evidenceItem);
+                            
+                            evidenceText.split("\n").forEach(evidenceMessage => {
+                                // Split the message by parts using regex to match label and value
+                                const parts = evidenceMessage.match(/(?:ID|User|Other Speaker): [^:]+/g);
+                                
+                                if (parts) {
+                                    parts.forEach(part => {
+                                        // Only process parts other than the ID
+                                        if (!part.startsWith("ID:")) {
+                                            const evidenceSubItem = document.createElement('div');
+                                            evidenceSubItem.textContent = part.trim(); // Trim any extra spaces
+                                            evidenceItem.appendChild(evidenceSubItem);
+                                        }
+                                    });
+                                    evidenceContainer.appendChild(evidenceItem);
+                                }
+                            });
+                        
                         });
 
                         // Toggle evidence visibility
